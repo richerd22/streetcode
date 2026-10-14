@@ -1,0 +1,1434 @@
+[
+ {
+  "term": "accessible pedestrian signal",
+  "aka": "APS",
+  "category": "Poles and signals",
+  "definition": "A push button with a locator tone, a tactile arrow and audible or vibrating WALK cues for blind and low-vision pedestrians.",
+  "section": "signal-gear",
+  "source_url": "https://www.walkinginfo.org/aps/5-4"
+ },
+ {
+  "term": "Ampelmännchen",
+  "aka": "little traffic light man",
+  "category": "Poles and signals",
+  "definition": "The East German hat-wearing pedestrian signal figure presented by Karl Peglau in 1961.",
+  "section": "signal-gear",
+  "source_url": "https://www.ddr-museum.de/en/blog/archive/what-remains-gdr-part-v-traffic-signs-ampelmaennchen"
+ },
+ {
+  "term": "ANSI C136.41",
+  "aka": "5-pin or 7-pin receptacle",
+  "category": "Poles and signals",
+  "definition": "The standard streetlight receptacle; the 5-position version has 2 dimming contacts and the 7-position version has 4, supporting 0-10 V or DALI dimming.",
+  "section": "utility-poles",
+  "source_url": "https://www.mouser.in/en/te-C136.41-dimming-receptacle/"
+ },
+ {
+  "term": "APWA color code",
+  "aka": "uniform color code",
+  "category": "Paint marks",
+  "definition": "The standard set of paint colors that tells you what kind of utility is buried under a locate mark, such as red for electric and yellow for gas.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Uniform-Color-Code"
+ },
+ {
+  "term": "areaway",
+  "aka": "sidewalk vault",
+  "category": "Covers and lids",
+  "definition": "Space beside or under the sidewalk belonging to the adjacent building, often reached through cellar doors.",
+  "section": "lids-grates",
+  "source_url": "https://spacing.ca/toronto/2007/09/06/the-mish-mash-of-new-yorks-sidewalks/"
+ },
+ {
+  "term": "arrow board",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A trailer- or truck-mounted panel of flashing lights showing drivers which way to merge; required at 40 mph and above per Seattle DOT's MUTCD-based manual.",
+  "section": "work-zones",
+  "source_url": "https://seattle.gov/Documents/Departments/SDOT/About/DocumentLibrary/TrafficControlManual/IV.MaterialsandPersonnelforTrafficControl.pdf"
+ },
+ {
+  "term": "AUTOSPKR",
+  "aka": "",
+  "category": "Fire",
+  "definition": "Sign abbreviation for automatic sprinkler, marking an FDC that feeds sprinklers.",
+  "section": "fire-hardware",
+  "source_url": "https://nfsa.org/?p=16658"
+ },
+ {
+  "term": "B.C.G.Co",
+  "aka": "Boston Consolidated Gas",
+  "category": "Covers and lids",
+  "definition": "Boston gas company formed by a 1905 merger and renamed Boston Gas in 1955; its initials survive on old gas covers.",
+  "section": "manhole-covers",
+  "source_url": "https://forgotten-ny.com/2015/06/gas-water-and-telephone-relics/amp"
+ },
+ {
+  "term": "backplate",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "The black frame around a signal head; FHWA promotes versions with a 1-3 inch yellow retroreflective border.",
+  "section": "signal-gear",
+  "source_url": "https://highways.dot.gov/safety/proven-safety-countermeasures/backplates-retroreflective-borders"
+ },
+ {
+  "term": "Belisha beacon",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "The flashing amber globe on a striped pole at a UK zebra crossing.",
+  "section": "signal-gear",
+  "source_url": "https://www.carbuyer.co.uk/tips-and-advice/171939/pelican-or-puffin-crossing-all-uk-pedestrian-crossings-explained"
+ },
+ {
+  "term": "Benchmark",
+  "aka": "bench mark",
+  "category": "Survey marks",
+  "definition": "A survey mark with a precisely known elevation, often a brass or aluminum disk.",
+  "section": "survey-marks",
+  "source_url": "https://www.usgs.gov/observatories/yvo/news/benchmarking-benchmarks"
+ },
+ {
+  "term": "bicycle-safe grate",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A drain grate with transverse rods, spacers or curved vanes so bike wheels can't drop into the slots.",
+  "section": "lids-grates",
+  "source_url": "https://trid.trb.org/View/190258"
+ },
+ {
+  "term": "bike box",
+  "aka": "intersection bicycle box",
+  "category": "Road markings",
+  "definition": "A box at least 10 feet deep at the front of a traffic lane where cyclists wait ahead of cars at a red light.",
+  "section": "crosswalks",
+  "source_url": "https://nacto.org/wp-content/uploads/2024-1030-NACTO-MUTCD-Webinar-5-Bikes.pdf"
+ },
+ {
+  "term": "blended transition",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A crossing point where the sidewalk slopes gently into the street instead of using a distinct ramp; PROWAG allows it in place of a curb ramp.",
+  "section": "curbs",
+  "source_url": "https://www.tesc.psu.edu/assets/docs/An-Overview-of-the-Finalized-Public-Rights-of-Way-Accessibility-Guidelines.pdf"
+ },
+ {
+  "term": "blister paving",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "UK tactile paving of flat bumps at pedestrian crossings: red at controlled crossings, usually buff at uncontrolled ones.",
+  "section": "curbs",
+  "source_url": "https://assets.publishing.service.gov.uk/media/61df0c91e90e07037794fe90/guidance-on-the-use-of-tactile-paving-surfaces.pdf"
+ },
+ {
+  "term": "blue hydrant marker",
+  "aka": "blue reflector",
+  "category": "Road markings",
+  "definition": "A blue raised reflector placed by the center line on the hydrant's side of the street to help firefighters find a hydrant; set by local fire code.",
+  "section": "road-lines",
+  "source_url": "https://www.rvcfire.org/pdf/fire-marshal/technical-policies/TP06-011-BlueReflectivePavementMarkers-01072020.pdf"
+ },
+ {
+  "term": "bollard",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A short sturdy post that guides or blocks vehicles; security bollards are crash-tested to stop trucks.",
+  "section": "curbs",
+  "source_url": "https://www.reliance-foundry.com/blog/crash-rated-bollards-everything-you-need-to-know"
+ },
+ {
+  "term": "bonnet",
+  "aka": "",
+  "category": "Fire",
+  "definition": "The domed top of a hydrant; under NFPA 291 it is painted to show the hydrant's flow class.",
+  "section": "hydrants",
+  "source_url": "https://www.muellercompany.com/sites/muellercompany.com/files/uploads/media/mueller_wp17303_paintingfirehydrants_f13807_v8.pdf"
+ },
+ {
+  "term": "boot scraper",
+  "aka": "mudder, decrottoir",
+  "category": "Curb and sidewalk",
+  "definition": "An iron blade by a doorstep for scraping mud and manure off shoes, dating from the end of the 18th century.",
+  "section": "sidewalks",
+  "source_url": "https://en.wikipedia.org/wiki/Boot_scraper"
+ },
+ {
+  "term": "BOS:311",
+  "aka": "Boston 311",
+  "category": "Boston",
+  "definition": "Boston's non-emergency service request system; each report becomes a public ticket routed to a department.",
+  "section": "boston",
+  "source_url": "https://311.boston.gov/tickets/101006325107"
+ },
+ {
+  "term": "Botts' dots",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "Round ceramic bumps along lane lines that thump under tires, named for Caltrans chemist Elbert Dysart Botts; California is phasing them out.",
+  "section": "road-lines",
+  "source_url": "https://en.wikipedia.org/wiki/Elbert_Dysart_Botts"
+ },
+ {
+  "term": "Broad arrow",
+  "aka": "crow's foot",
+  "category": "Survey marks",
+  "definition": "The three-line arrow that became the mark of the Board of Ordnance by 1597 and appears on OS benchmarks.",
+  "section": "survey-marks",
+  "source_url": "https://www.fhithich.uk/2026/07/22/a-crows-foot-on-a-gatepost/"
+ },
+ {
+  "term": "broken line",
+  "aka": "dashed line",
+  "category": "Road markings",
+  "definition": "A dashed line meaning crossing is permitted; the US standard is 10-foot segments with 30-foot gaps.",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "BWSC",
+  "aka": "Boston Water and Sewer Commission",
+  "category": "Covers and lids",
+  "definition": "Boston's water and sewer utility, created in 1977; its initials are on Boston water and sewer covers.",
+  "section": "manhole-covers",
+  "source_url": "https://forgotten-ny.com/2015/06/gas-water-and-telephone-relics/amp"
+ },
+ {
+  "term": "catch basin",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A street drain with a sump below the outlet pipe where sand and debris settle out.",
+  "section": "lids-grates",
+  "source_url": "https://www.stormwatercenter.net/Pollution_Prevention_Factsheets/CatchBasins.htm"
+ },
+ {
+  "term": "center line",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "The line separating traffic going in opposite directions; yellow in the US, usually white in continental Europe.",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "channelizing device",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A cone, drum or barricade used to guide traffic through a work zone.",
+  "section": "work-zones",
+  "source_url": "https://seattle.gov/Documents/Departments/SDOT/About/DocumentLibrary/TrafficControlManual/IV.MaterialsandPersonnelforTrafficControl.pdf"
+ },
+ {
+  "term": "Clearview",
+  "aka": "Clearview Hwy",
+  "category": "Signs",
+  "definition": "An optional typeface for light-on-dark US guide signs, approved in 2004, terminated in 2016 and reinstated in 2018.",
+  "section": "sign-codes",
+  "source_url": "https://mutcd-dr.fhwa.dot.gov/resources/interim_approval/ia5/ia5_reinstatement.htm"
+ },
+ {
+  "term": "coal hole",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A small pavement opening, usually 30-36 cm across, where coal was tipped into a vault under the sidewalk.",
+  "section": "lids-grates",
+  "source_url": "https://www.designingbuildings.co.uk/wiki/Coal_hole_cover"
+ },
+ {
+  "term": "cobblestone",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A small naturally rounded stone used as paving, in New York until about 1860.",
+  "section": "sidewalks",
+  "source_url": "https://untappedcities.com/2017/09/01/10-fun-facts-about-nyc-belgian-block-not-cobblestone-streets/2/"
+ },
+ {
+  "term": "colored curb",
+  "aka": "painted curb",
+  "category": "Curb and sidewalk",
+  "definition": "In California, a curb painted red, yellow, white, green or blue to signal a parking rule under Vehicle Code 21458.",
+  "section": "curbs",
+  "source_url": "https://california.public.law/codes/vehicle_code_section_21458"
+ },
+ {
+  "term": "communication worker safety zone",
+  "aka": "safety zone",
+  "category": "Poles and signals",
+  "definition": "The clear vertical band, commonly about 40 inches, required by NESC Rules 235C and 238 between power above and communication cables below.",
+  "section": "utility-poles",
+  "source_url": "https://ikegps.com/ikewire/communication-worker-safety-zone"
+ },
+ {
+  "term": "continental crosswalk",
+  "aka": "zebra (US)",
+  "category": "Road markings",
+  "definition": "A crosswalk of wide white bars running parallel to traffic.",
+  "section": "crosswalks",
+  "source_url": "https://www.walkinginfo.org/engineering/crossings-crosswalks/"
+ },
+ {
+  "term": "contractor stamp",
+  "aka": "sidewalk stamp",
+  "category": "Curb and sidewalk",
+  "definition": "A company name and often a year pressed into fresh concrete, useful for dating a sidewalk panel.",
+  "section": "sidewalks",
+  "source_url": "https://livingnewdeal.org/new-deal-categories/sidewalks-and-stairs"
+ },
+ {
+  "term": "corduroy paving",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "UK tactile paving of rounded bars across the path meaning hazard, proceed with caution, as at steps.",
+  "section": "curbs",
+  "source_url": "https://assets.publishing.service.gov.uk/media/61df0c91e90e07037794fe90/guidance-on-the-use-of-tactile-paving-surfaces.pdf"
+ },
+ {
+  "term": "Crossbuck",
+  "aka": "",
+  "category": "Signs",
+  "definition": "The X-shaped sign that marks a railroad grade crossing itself.",
+  "section": "signs",
+  "source_url": "https://regulations.justia.com/states/delaware/title-2/2000/2400/2402/part-2/chapter-2a/section-2a-09"
+ },
+ {
+  "term": "curb box",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A vertical cast-iron pipe, capped with a small round 'WATER' lid, reaching 4-6 ft down to a building's water shutoff.",
+  "section": "lids-grates",
+  "source_url": "https://aymcdonald.com/post/whats-down-there-the-mysteries-of-a-curb-box"
+ },
+ {
+  "term": "curb ramp",
+  "aka": "curb cut",
+  "category": "Curb and sidewalk",
+  "definition": "A short slope through a curb that lets wheelchair, stroller and cart users get between sidewalk and street.",
+  "section": "curbs",
+  "source_url": "https://www.tesc.psu.edu/assets/docs/An-Overview-of-the-Finalized-Public-Rights-of-Way-Accessibility-Guidelines.pdf"
+ },
+ {
+  "term": "curb stop",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "The underground shutoff valve on a building's water service line, turned with a long key through the curb box.",
+  "section": "lids-grates",
+  "source_url": "https://aymcdonald.com/post/whats-down-there-the-mysteries-of-a-curb-box"
+ },
+ {
+  "term": "Cut benchmark",
+  "aka": "crow's foot",
+  "category": "Survey marks",
+  "definition": "A UK Ordnance Survey height mark chiseled as a horizontal line over an upward three-line arrow.",
+  "section": "survey-marks",
+  "source_url": "https://www.rushdenheartsandsoles.co.uk/history/Benchmark-Types.html"
+ },
+ {
+  "term": "Datasheet",
+  "aka": "NGS datasheet",
+  "category": "Survey marks",
+  "definition": "The NGS record for a mark, giving its coordinates, elevation and a station description with directions.",
+  "section": "survey-marks",
+  "source_url": "https://www.nauticalcharts.noaa.gov/learn/docs/educational-activities/survey-mark-hunting.pdf"
+ },
+ {
+  "term": "detectable warning surface",
+  "aka": "detectable warning",
+  "category": "Curb and sidewalk",
+  "definition": "A textured panel, usually truncated domes, that tells blind pedestrians they are about to enter a street or reach a drop-off.",
+  "section": "curbs",
+  "source_url": "https://www.access-board.gov/prowag/detectable-warnings-update.html"
+ },
+ {
+  "term": "Dig Safe",
+  "aka": "",
+  "category": "Paint marks",
+  "definition": "The one-call center for Massachusetts, Maine, New Hampshire, Rhode Island and Vermont.",
+  "section": "paint",
+  "source_url": "https://www.digsafe.com/faqs"
+ },
+ {
+  "term": "DIN 1451",
+  "aka": "",
+  "category": "Signs",
+  "definition": "Germany's standard typeface for road signs, standardized in 1936 and required on the Autobahn from 1938.",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/DIN_1451"
+ },
+ {
+  "term": "DIRT",
+  "aka": "Damage Information Reporting Tool",
+  "category": "Paint marks",
+  "definition": "CGA's annual report on reported damage to buried utilities; 196,977 damages were counted for 2024.",
+  "section": "paint",
+  "source_url": "https://undergroundinfrastructure.com/magazine/2025/september-2025-vol-80-no-9/features/cga-report-shows-utility-damages-rising-nearly-200-000-incidents-in-2024"
+ },
+ {
+  "term": "dotted line",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "Shorter, closer dashes than a broken line, used to extend a line through an intersection or mark a lane drop.",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "dry-barrel hydrant",
+  "aka": "",
+  "category": "Fire",
+  "definition": "A cold-climate hydrant whose valve sits below the frost line and whose barrel drains after use so it cannot freeze.",
+  "section": "hydrants",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_hydrant"
+ },
+ {
+  "term": "dutchman",
+  "aka": "",
+  "category": "Boston",
+  "definition": "An inset patch of matching stone used to repair damaged granite, required for curb repairs on Beacon Hill.",
+  "section": "boston",
+  "source_url": "https://search.boston.gov/sites/default/files/file/2025/09/%287_17_25%29%20Beacon%20Hill%20-%20Approved%20Meeting%20Minutes.pdf"
+ },
+ {
+  "term": "edge line",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A solid line marking the side of the road: white on the right, yellow on the left of one-way roads and divided highways (US).",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "EEI",
+  "aka": "Edison Electric Illuminating Co. of Boston",
+  "category": "Covers and lids",
+  "definition": "Boston electric company founded in 1886, predecessor of Boston Edison, NSTAR and Eversource.",
+  "section": "manhole-covers",
+  "source_url": "https://universalhub.com/node/98249"
+ },
+ {
+  "term": "EM-1",
+  "aka": "Evacuation Route sign",
+  "category": "Work zones",
+  "definition": "The MUTCD sign with a blue circle on a white square reading EVACUATION ROUTE.",
+  "section": "work-zones",
+  "source_url": "https://mutcd.fhwa.dot.gov/htm/2009r1r2/part2/part2n.htm"
+ },
+ {
+  "term": "EM-1a",
+  "aka": "tsunami evacuation route sign",
+  "category": "Work zones",
+  "definition": "The tsunami version of EM-1, with a tsunami symbol and a required blue arrow sign below.",
+  "section": "work-zones",
+  "source_url": "https://mutcd.fhwa.dot.gov/htm/2009r1r2/part2/part2n.htm"
+ },
+ {
+  "term": "emergency preemption",
+  "aka": "Opticom",
+  "category": "Poles and signals",
+  "definition": "A system in which a detector on the signal responds to a high-rate coded strobe or GPS data to request a green.",
+  "section": "signal-gear",
+  "source_url": "http://www.criticallink.com/2015/08/traffic-signal-pre-emption-systems/"
+ },
+ {
+  "term": "FE-Schrift",
+  "aka": "",
+  "category": "Signs",
+  "definition": "A forgery-resistant typeface designed by Karlgeorg Hoefer, used on German license plates since 1994.",
+  "section": "sign-codes",
+  "source_url": "https://mediengeschichte.dnb.de/DBSMZBN/Content/EN/FontDesign/05-fe-schrift-en.html"
+ },
+ {
+  "term": "fire alarm box",
+  "aka": "Gamewell box, street box",
+  "category": "Fire",
+  "definition": "A street box that telegraphs its number to the fire alarm office when pulled, using clockwork and dedicated wires.",
+  "section": "fire-hardware",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_alarm_call_box"
+ },
+ {
+  "term": "fire alarm telegraph",
+  "aka": "",
+  "category": "Boston",
+  "definition": "A dedicated wired network that sends a coded box number from a street box to fire dispatch; Boston's was switched on in 1852.",
+  "section": "boston",
+  "source_url": "https://www.bostonglobe.com/2026/04/03/metro/fire-alarm-boxes/"
+ },
+ {
+  "term": "fire department connection",
+  "aka": "FDC, Siamese connection",
+  "category": "Fire",
+  "definition": "Inlets on a building where a fire engine pumps water into the sprinkler or standpipe system.",
+  "section": "fire-hardware",
+  "source_url": "https://nfsa.org/?p=16658"
+ },
+ {
+  "term": "fire hydrant",
+  "aka": "fireplug",
+  "category": "Fire",
+  "definition": "A valve on the water main at the curb that firefighters open with a hydrant wrench to supply hoses and engines.",
+  "section": "hydrants",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_hydrant"
+ },
+ {
+  "term": "fire lane",
+  "aka": "",
+  "category": "Fire",
+  "definition": "A marked lane kept clear for fire apparatus, signed NO PARKING FIRE LANE in red on white under the IFC.",
+  "section": "fire-hardware",
+  "source_url": "https://greatfallsmt.net/sites/default/files/fileattachments/fire/page/38391/fire_lane_guide_2023.pdf"
+ },
+ {
+  "term": "fireplug",
+  "aka": "",
+  "category": "Fire",
+  "definition": "An old name for a hydrant, from the wooden plugs hammered into holes bored in hollow-log water mains.",
+  "section": "hydrants",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_hydrant"
+ },
+ {
+  "term": "flagger",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A worker who directs traffic with a STOP/SLOW paddle, wearing ANSI/ISEA 107 Class 2 garments by day and Class 3 at night.",
+  "section": "work-zones",
+  "source_url": "https://seattle.gov/Documents/Departments/SDOT/About/DocumentLibrary/TrafficControlManual/IV.MaterialsandPersonnelforTrafficControl.pdf"
+ },
+ {
+  "term": "flashing yellow arrow",
+  "aka": "FYA",
+  "category": "Poles and signals",
+  "definition": "A left-turn indication meaning a permissive turn: turn only after yielding to oncoming traffic and pedestrians.",
+  "section": "signal-gear",
+  "source_url": "https://www.cts.umn.edu/news-pubs/news/2024/may/arrows"
+ },
+ {
+  "term": "Fluorescent yellow-green",
+  "aka": "neon green",
+  "category": "Signs",
+  "definition": "A bright background color required for school warning signs and allowed for pedestrian, bicycle and playground warnings.",
+  "section": "signs",
+  "source_url": "https://mutcd-dr.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf"
+ },
+ {
+  "term": "Flush bracket",
+  "aka": "FB, NPFB",
+  "category": "Survey marks",
+  "definition": "A metal Ordnance Survey benchmark plate about 6 by 3 in. set into a wall or trig pillar.",
+  "section": "survey-marks",
+  "source_url": "https://www.rushdenheartsandsoles.co.uk/history/Benchmark-Types.html"
+ },
+ {
+  "term": "fuse cutout",
+  "aka": "cutout",
+  "category": "Poles and signals",
+  "definition": "A fuse holder mounted high on a pole near transformers or along primary lines; its fuse melts on unsafe current and the barrel swings open with a loud crack.",
+  "section": "utility-poles",
+  "source_url": "https://www.indianaconnection.org/?p=105753"
+ },
+ {
+  "term": "gas lamp",
+  "aka": "gas light",
+  "category": "Boston",
+  "definition": "A street lantern that burns natural gas around the clock; Boston has about 2,800.",
+  "section": "boston",
+  "source_url": "https://www.cbsnews.com/boston/news/boston-plans-to-replace-historic-gas-lamps-with-energy-saving-led-lights"
+ },
+ {
+  "term": "gas service regulator",
+  "aka": "",
+  "category": "Fire",
+  "definition": "The bell-shaped device beside a gas meter that lowers line pressure to about 0.25 psi for appliances, with a vent that must stay clear.",
+  "section": "fire-hardware",
+  "source_url": "https://outreach.ngridsafety.com/wp-content/uploads/2022/04/13036_95595_NGrid_FR_ToT_Regulators_flyer_ng_0222.pdf"
+ },
+ {
+  "term": "ghost sign",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A faded hand-painted advertisement on a building wall, often uncovered when a later building or billboard comes down.",
+  "section": "sidewalks",
+  "source_url": "https://www.ipswich-lettering.co.uk/ghostsignbackground.html"
+ },
+ {
+  "term": "gridder",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "An enthusiast who photographs or studies utility covers.",
+  "section": "manhole-covers",
+  "source_url": "https://www.designingbuildings.co.uk/wiki/Coal_hole_cover"
+ },
+ {
+  "term": "handhole",
+  "aka": "pull box",
+  "category": "Covers and lids",
+  "definition": "A shallow box in an underground conduit run where cable is pulled and spliced, often labeled 'TRAFFIC SIGNAL'.",
+  "section": "lids-grates",
+  "source_url": "https://ia.iowadot.gov/specifications/provisions/2015/SP-150109.pdf"
+ },
+ {
+  "term": "Highway Gothic",
+  "aka": "FHWA Standard Alphabets",
+  "category": "Signs",
+  "definition": "The government typeface used on most US road signs, first published in 1948, in Series B through F plus E(Modified).",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/Highway_Gothic"
+ },
+ {
+  "term": "hydrant marker plate",
+  "aka": "H plate",
+  "category": "Fire",
+  "definition": "A UK sign with a black H on yellow giving the main diameter (top, mm) and distance to the hydrant cover (bottom, m).",
+  "section": "hydrants",
+  "source_url": "https://www.essex-fire.gov.uk/fire-hydrant-plates"
+ },
+ {
+  "term": "hydrant wrench",
+  "aka": "fire wrench, pentagon wrench",
+  "category": "Fire",
+  "definition": "The tool with a pentagonal socket used to open hydrants and their caps.",
+  "section": "hydrants",
+  "source_url": "https://engineerfix.com/what-is-a-fire-hydrant-wrench-called/"
+ },
+ {
+  "term": "Hydrantenschild",
+  "aka": "",
+  "category": "Fire",
+  "definition": "The German red-bordered hydrant sign giving pipe size and the hydrant's offset from the sign in meters.",
+  "section": "hydrants",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_hydrant"
+ },
+ {
+  "term": "Incident management sign",
+  "aka": "pink sign",
+  "category": "Signs",
+  "definition": "A temporary sign with a fluorescent pink background used at crashes and emergencies.",
+  "section": "signs",
+  "source_url": "https://www.trafficsign.us/signcolor.html"
+ },
+ {
+  "term": "inductive loop",
+  "aka": "loop detector",
+  "category": "Poles and signals",
+  "definition": "A wire loop saw-cut into the pavement whose inductance changes when a vehicle is above it.",
+  "section": "signal-gear",
+  "source_url": "https://www.bloomingtonmn.gov/node/5986"
+ },
+ {
+  "term": "Interim approval",
+  "aka": "IA",
+  "category": "Signs",
+  "definition": "FHWA permission for agencies to use a device or practice not yet in the MUTCD, such as IA-5 for Clearview.",
+  "section": "sign-codes",
+  "source_url": "https://mutcd.fhwa.dot.gov/res-interim_approvals.htm"
+ },
+ {
+  "term": "Interstate shield",
+  "aka": "Interstate route marker",
+  "category": "Signs",
+  "definition": "The red, white and blue marker adopted by AASHO on August 14, 1957, a registered trademark since 1967.",
+  "section": "sign-codes",
+  "source_url": "https://highways.dot.gov/history/interstate-system/50th-anniversary/shields-and-signs"
+ },
+ {
+  "term": "joint box",
+  "aka": "Covers, Footway",
+  "category": "Covers and lids",
+  "definition": "British name for a shallow telecom box where cables are spliced; GPO joint box covers date from 1904.",
+  "section": "manhole-covers",
+  "source_url": "https://www.britishtelephones.com/gpo/jointbox3.htm"
+ },
+ {
+  "term": "Knox-Box",
+  "aka": "rapid-entry key box",
+  "category": "Fire",
+  "definition": "A wall-mounted steel vault holding building keys that only the local fire department can open.",
+  "section": "fire-hardware",
+  "source_url": "https://www.howardcountymd.gov/fire-and-rescue-services/knox-box-rapid-entry-system"
+ },
+ {
+  "term": "ladder crosswalk",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A crosswalk combining two transverse lines with bars between them.",
+  "section": "crosswalks",
+  "source_url": "https://www.walkinginfo.org/engineering/crossings-crosswalks/"
+ },
+ {
+  "term": "lane line",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A white line separating lanes of traffic going the same direction (US).",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "Locate mark",
+  "aka": "utility marking",
+  "category": "Paint marks",
+  "definition": "Paint, flags, stakes or whiskers placed by a utility's locator to show the approximate path of a buried line.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Guidelines-for-Operator-Facility-Field-Delineation"
+ },
+ {
+  "term": "locator tone",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "The once-per-second tick, no longer than 0.15 seconds, that helps pedestrians find an APS push button.",
+  "section": "signal-gear",
+  "source_url": "https://www.walkinginfo.org/aps/5-4"
+ },
+ {
+  "term": "M50 rating",
+  "aka": "K12",
+  "category": "Curb and sidewalk",
+  "definition": "A crash rating meaning a bollard stopped a 15,000 lb test truck at 50 mph.",
+  "section": "curbs",
+  "source_url": "https://www.reliance-foundry.com/blog/crash-rated-bollards-everything-you-need-to-know"
+ },
+ {
+  "term": "make ready",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "Rearranging existing cables on a pole to make room for a new attachment.",
+  "section": "utility-poles",
+  "source_url": "https://www.ecmag.com/section/systems/look-fiber-optics-above-you"
+ },
+ {
+  "term": "manhole",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A vertical shaft big enough for a worker to climb down to reach underground pipes or cables; modern openings must fit a worker wearing breathing apparatus.",
+  "section": "manhole-covers",
+  "source_url": "https://www.nashuatelegraph.com/news/local-news/2011/08/21/historic-and-unique-nashua-8217s-triangular-manhole-covers-are-being-replaced-because-they-8217re-too-small"
+ },
+ {
+  "term": "manhole card",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A collectible card showing one Japanese municipality's sewer cover design, issued by the Sewerage PR Platform (GKP) since April 2016.",
+  "section": "manhole-covers",
+  "source_url": "https://www.gk-p.jp/wp-content/uploads/2019/03/190318_oshirase.pdf"
+ },
+ {
+  "term": "master box",
+  "aka": "",
+  "category": "Fire",
+  "definition": "A fire alarm box connected to a building's own alarm system so it signals the fire department automatically.",
+  "section": "fire-hardware",
+  "source_url": "https://www.bostonglobe.com/2026/04/03/metro/fire-alarm-boxes/"
+ },
+ {
+  "term": "monitoring well",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A narrow pipe for sampling groundwater or soil vapor, capped with a small bolted lid; triangular lids follow the API 1615 design so drivers won't pour fuel in.",
+  "section": "lids-grates",
+  "source_url": "https://shop.sourcena.com/Universal-Valve/Manhole-Replacement-Part/65TE-12-B1/Universal-65TE-12-B1-12-Inch-Triangle-Cast-Iron-Bolted-Monitoring-Well-Cover-Only"
+ },
+ {
+  "term": "MUTCD",
+  "aka": "Manual on Uniform Traffic Control Devices",
+  "category": "Signs",
+  "definition": "The federal manual that sets US rules for road signs, signals and markings; the 11th edition took effect January 18, 2024.",
+  "section": "signs",
+  "source_url": "https://mutcd.fhwa.dot.gov/index.htm"
+ },
+ {
+  "term": "NESC",
+  "aka": "National Electrical Safety Code",
+  "category": "Poles and signals",
+  "definition": "The US code that sets clearances on utility poles, including the communication worker safety zone.",
+  "section": "utility-poles",
+  "source_url": "https://ikegps.com/ikewire/communication-worker-safety-zone"
+ },
+ {
+  "term": "NFPA 291",
+  "aka": "",
+  "category": "Fire",
+  "definition": "The National Fire Protection Association's voluntary recommended practice for flow testing and color-coding hydrants.",
+  "section": "hydrants",
+  "source_url": "https://www.muellercompany.com/sites/muellercompany.com/files/uploads/media/mueller_wp17303_paintingfirehydrants_f13807_v8.pdf"
+ },
+ {
+  "term": "No-conflict mark",
+  "aka": "NO mark",
+  "category": "Paint marks",
+  "definition": "NO plus an owner's identifier in its color, meaning that owner has nothing in the dig area.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Guidelines-for-Operator-Facility-Field-Delineation"
+ },
+ {
+  "term": "Offset mark",
+  "aka": "",
+  "category": "Paint marks",
+  "definition": "A mark placed to one side of a buried line with a direction and distance, labeled OFF, when a mark cannot go directly over it.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Guidelines-for-Operator-Facility-Field-Delineation"
+ },
+ {
+  "term": "One-call center",
+  "aka": "811 center",
+  "category": "Paint marks",
+  "definition": "The organization, such as Dig Safe, that takes dig notices and passes them to member utilities.",
+  "section": "paint",
+  "source_url": "https://www.govinfo.gov/content/pkg/FR-2005-04-13/pdf/05-7179.pdf"
+ },
+ {
+  "term": "opercula",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "Shephard Taylor's term for coal-hole covers, coined in the 1860s.",
+  "section": "lids-grates",
+  "source_url": "https://www.designingbuildings.co.uk/wiki/Coal_hole_cover"
+ },
+ {
+  "term": "Ordnance Datum Newlyn",
+  "aka": "ODN",
+  "category": "Survey marks",
+  "definition": "The datum that Ordnance Survey benchmark heights are measured from.",
+  "section": "survey-marks",
+  "source_url": "https://www.ordnancesurvey.co.uk/benchmarks/"
+ },
+ {
+  "term": "pad-mounted transformer",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A large locked box on a concrete pad that steps down electric voltage; usually unvented, with a DANGER sticker.",
+  "section": "work-zones",
+  "source_url": "https://www.hydro.mb.ca/articles/2023/04/whats_up_with_those_green_boxes/"
+ },
+ {
+  "term": "palimpsest",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A ghost sign where layers of older lettering show through each other.",
+  "section": "sidewalks",
+  "source_url": "https://www.ipswich-lettering.co.uk/ghostsignbackground.html"
+ },
+ {
+  "term": "PAS 128",
+  "aka": "",
+  "category": "Paint marks",
+  "definition": "The British specification for detecting, verifying and locating buried utilities, first published in 2014 and revised in 2022.",
+  "section": "paint",
+  "source_url": "https://www.ice.org.uk/news-views-insights/latest-news/ice-and-bsi-launch-revised-pas-128"
+ },
+ {
+  "term": "pedestrian hybrid beacon",
+  "aka": "PHB, HAWK",
+  "category": "Poles and signals",
+  "definition": "A dark-until-pushed signal with two reds over a yellow, used only with a marked crosswalk.",
+  "section": "signal-gear",
+  "source_url": "https://rosap.ntl.bts.gov/view/dot/49437/dot_49437_DS1.pdf"
+ },
+ {
+  "term": "Pennant",
+  "aka": "No Passing Zone sign",
+  "category": "Signs",
+  "definition": "The long sideways triangle, sign W14-3, placed on the left side of the road to mark a no-passing zone.",
+  "section": "signs",
+  "source_url": "https://mutcd-dr.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf"
+ },
+ {
+  "term": "pentagon nut",
+  "aka": "",
+  "category": "Fire",
+  "definition": "The five-sided operating nut on a hydrant, shaped so ordinary wrenches will not fit and only a hydrant wrench will.",
+  "section": "hydrants",
+  "source_url": "https://engineerfix.com/what-is-a-fire-hydrant-wrench-called/"
+ },
+ {
+  "term": "photocontrol",
+  "aka": "photocell",
+  "category": "Poles and signals",
+  "definition": "The twist-on device on top of a streetlight that plugs into an ANSI C136.41 receptacle and switches the light.",
+  "section": "utility-poles",
+  "source_url": "https://www.mouser.in/en/te-C136.41-dimming-receptacle/"
+ },
+ {
+  "term": "PID",
+  "aka": "Permanent Identifier",
+  "category": "Survey marks",
+  "definition": "The six-character identifier for a mark in the National Geodetic Survey database.",
+  "section": "survey-marks",
+  "source_url": "https://en.wikipedia.org/wiki/Benchmarking_(hobby)"
+ },
+ {
+  "term": "PK nail",
+  "aka": "survey nail",
+  "category": "Survey marks",
+  "definition": "A standard surveyor's nail driven into pavement as a control or reference point; the MAG nail is a common alternative.",
+  "section": "survey-marks",
+  "source_url": "https://rpls.com/forums/strictly-surveying/substitute-pk-nails/"
+ },
+ {
+  "term": "Plaque",
+  "aka": "supplementary plaque",
+  "category": "Signs",
+  "definition": "A small sign mounted under another sign to add information, such as an advisory speed; its code ends in P.",
+  "section": "signs",
+  "source_url": "https://mutcd-dr.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf"
+ },
+ {
+  "term": "pole brand",
+  "aka": "birthmark",
+  "category": "Poles and signals",
+  "definition": "The burned-in or plated mark on a wood pole showing class and height, owner, manufacturer, species, treatment, batch and date.",
+  "section": "utility-poles",
+  "source_url": "https://www.ameren.com/-/media/corporate-site/Files/SafetyPartners/UtilityPoleAssessment.pdf"
+ },
+ {
+  "term": "Positive contrast",
+  "aka": "",
+  "category": "Signs",
+  "definition": "Light lettering on a dark background, such as white on green.",
+  "section": "sign-codes",
+  "source_url": "https://www.wikipedia.com/wiki/Clearview_Hwy"
+ },
+ {
+  "term": "post indicator valve",
+  "aka": "PIV",
+  "category": "Fire",
+  "definition": "A post near a building with an OPEN or SHUT window that operates the underground valve on the sprinkler supply.",
+  "section": "fire-hardware",
+  "source_url": "https://blog.koorsen.com/what-is-a-post-indicator-valve-piv-and-are-they-required"
+ },
+ {
+  "term": "prescriptive easement",
+  "aka": "easement by use",
+  "category": "Curb and sidewalk",
+  "definition": "A right to cross land gained through long public use, which owners block with posted notices such as California's Section 1008 signs.",
+  "section": "sidewalks",
+  "source_url": "https://malegislature.gov/laws/generallaws/partii/titlei/chapter187/section3"
+ },
+ {
+  "term": "primary",
+  "aka": "primary lines",
+  "category": "Poles and signals",
+  "definition": "The medium-voltage power lines at the top of a utility pole, above the communication worker safety zone.",
+  "section": "utility-poles",
+  "source_url": "https://ikegps.com/ikewire/communication-worker-safety-zone"
+ },
+ {
+  "term": "private way",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "In Boston, a street the city has not accepted as public, where abutters handle maintenance, snow and parking.",
+  "section": "sidewalks",
+  "source_url": "https://www.boston.gov/departments/public-works/public-vs-private-ways"
+ },
+ {
+  "term": "Property pin",
+  "aka": "iron pin, capped rebar",
+  "category": "Survey marks",
+  "definition": "An iron rod or pipe at a property corner, often capped with the land surveyor's name and license number.",
+  "section": "survey-marks",
+  "source_url": "https://gigharborwa.gov/Archive.aspx?ADID=2300"
+ },
+ {
+  "term": "PROWAG",
+  "aka": "Public Right-of-Way Accessibility Guidelines",
+  "category": "Curb and sidewalk",
+  "definition": "The US Access Board's design rules for sidewalks, crossings and curb ramps, published August 8, 2023, enforceable once DOJ and DOT adopt them.",
+  "section": "curbs",
+  "source_url": "https://kittelson.com/ideas/the-final-rule-on-public-right-of-way-accessibility-guidelines-prowag-is-out-heres-what-you-need-to-know"
+ },
+ {
+  "term": "public way",
+  "aka": "",
+  "category": "Boston",
+  "definition": "A street on which the city handles maintenance, cleaning, plowing and city-owned streetlights.",
+  "section": "boston",
+  "source_url": "https://www.boston.gov/departments/public-works/public-vs-private-ways"
+ },
+ {
+  "term": "puffin crossing",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "A UK signalized crossing with no flashing amber, sensors that detect pedestrians, and the signal on the button box.",
+  "section": "signal-gear",
+  "source_url": "https://www.carbuyer.co.uk/tips-and-advice/171939/pelican-or-puffin-crossing-all-uk-pedestrian-crossings-explained"
+ },
+ {
+  "term": "purple lane",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A US toll plaza approach lane reserved for vehicles with registered electronic toll accounts.",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "raised pavement marker",
+  "aka": "road reflector",
+  "category": "Road markings",
+  "definition": "A small reflector or bump fixed to the road that matches the color of its line; the wrong-way side may be red.",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "rectangular rapid flashing beacon",
+  "aka": "RRFB",
+  "category": "Poles and signals",
+  "definition": "Two push-activated rectangular yellow LED lights under a crosswalk sign that flash in an alternating high-frequency pattern.",
+  "section": "signal-gear",
+  "source_url": "https://safedesign.uky.edu/rectangular-rapid-flashing-beacon-rrfb"
+ },
+ {
+  "term": "red-light confirmation light",
+  "aka": "blue enforcement light",
+  "category": "Poles and signals",
+  "definition": "A small blue light that turns on with the red so police can see red-light violations; it does not use automated photography.",
+  "section": "signal-gear",
+  "source_url": "https://www.bismarcknd.gov/1800/Red-Light-Confirmation-Lights"
+ },
+ {
+  "term": "Reference location sign",
+  "aka": "mile marker, milepost",
+  "category": "Signs",
+  "definition": "A small sign showing distance along a route, the D10-1 series, counting up from the south or west state line.",
+  "section": "sign-codes",
+  "source_url": "https://epg.modot.org/index.php/903.9_General_Information_Signs"
+ },
+ {
+  "term": "Reference mark",
+  "aka": "",
+  "category": "Survey marks",
+  "definition": "A disk near a main station with an arrow pointing back to it, used to recover the station.",
+  "section": "survey-marks",
+  "source_url": "https://en.wikipedia.org/wiki/Survey_marker"
+ },
+ {
+  "term": "regard de chaussee",
+  "aka": "plaque d'egout",
+  "category": "Covers and lids",
+  "definition": "French name for a street utility or sewer cover, as seen in Paris.",
+  "section": "manhole-covers",
+  "source_url": "https://parisianfields.com/2011/10/09/walking-on-cast-iron-in-paris"
+ },
+ {
+  "term": "Retroreflectivity",
+  "aka": "",
+  "category": "Signs",
+  "definition": "A sign surface's ability to return headlight light toward the driver; US agencies must keep signs above set minimums.",
+  "section": "sign-codes",
+  "source_url": "https://highways.dot.gov/safety/other/visibility/minimum-sign-retroreflectivity-requirements"
+ },
+ {
+  "term": "rumble strip",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "Grooves or raised bars in the pavement that make noise and vibration when tires cross them.",
+  "section": "road-lines",
+  "source_url": "https://highways.fhwa.dot.gov/safety/keep-vehicles-road/rumble-strips/general-information"
+ },
+ {
+  "term": "rumble stripe",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A rumble strip with the retroreflective edge or center line painted into it.",
+  "section": "road-lines",
+  "source_url": "https://highways.fhwa.dot.gov/safety/keep-vehicles-road/rumble-strips/general-information"
+ },
+ {
+  "term": "Series E(Modified)",
+  "aka": "E(M)",
+  "category": "Signs",
+  "definition": "A heavier Highway Gothic created in 1949-1950 to fit button reflectors, used on freeway guide signs.",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/Highway_Gothic"
+ },
+ {
+  "term": "sett",
+  "aka": "Belgian block",
+  "category": "Curb and sidewalk",
+  "definition": "A quarried, roughly rectangular paving stone, usually granite, often mistakenly called a cobblestone.",
+  "section": "sidewalks",
+  "source_url": "https://kaweah.freedombox.rocks/kiwix/wikipedia_en_all_maxi_2023-10/Setts"
+ },
+ {
+  "term": "sharrow",
+  "aka": "shared lane marking",
+  "category": "Road markings",
+  "definition": "A bike symbol with two chevrons showing where cyclists should ride in a lane shared with cars; added to the MUTCD in 2009.",
+  "section": "crosswalks",
+  "source_url": "https://legacy.denverite.com/?p=177580"
+ },
+ {
+  "term": "shokasen",
+  "aka": "消火栓",
+  "category": "Fire",
+  "definition": "Japanese for fire hydrant: 消火 'extinguishing fire' plus 栓 'plug or valve'.",
+  "section": "hydrants",
+  "source_url": "https://www.tkgje.jp/entries/29500/29794_shoukasen.html"
+ },
+ {
+  "term": "Sign designation",
+  "aka": "sign code",
+  "category": "Signs",
+  "definition": "The alphanumeric code given to each standard US sign, such as W14-3 for No Passing Zone; a trailing P marks a plaque.",
+  "section": "signs",
+  "source_url": "https://mutcd-dr.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf"
+ },
+ {
+  "term": "Sign identification decal",
+  "aka": "back-of-sign label",
+  "category": "Signs",
+  "definition": "A label on the back of a sign recording materials and fabrication and installation dates; TxDOT uses a punch-coded grid.",
+  "section": "sign-codes",
+  "source_url": "https://www.txdot.gov/manuals/trf/smk/sign_materials_and_supports/sign_id_decal-i1019387.html"
+ },
+ {
+  "term": "small cell",
+  "aka": "5G small cell",
+  "category": "Poles and signals",
+  "definition": "A low-power cellular antenna, usually shrouded at the top of a 30-40 ft pole with a cabinet and electric meter below.",
+  "section": "utility-poles",
+  "source_url": "https://thorntonco.gov/media/file/small-cells-frequently-asked-questions"
+ },
+ {
+  "term": "snow emergency artery",
+  "aka": "",
+  "category": "Boston",
+  "definition": "A posted Boston street where parking is banned, with ticket and tow, during a declared snow emergency.",
+  "section": "boston",
+  "source_url": "https://boston.gov/departments/311/snow-emergency-parking"
+ },
+ {
+  "term": "snowshoe",
+  "aka": "snowshoe fitting",
+  "category": "Poles and signals",
+  "definition": "A rack that holds a stretched coil of spare fiber cable on a span so each end can later reach a splicing truck on the ground.",
+  "section": "utility-poles",
+  "source_url": "https://www.ecmag.com/section/systems/look-fiber-optics-above-you"
+ },
+ {
+  "term": "space saver",
+  "aka": "",
+  "category": "Boston",
+  "definition": "An object left to claim a shoveled parking space; tolerated in Boston only during a declared snow emergency and for 48 hours after.",
+  "section": "boston",
+  "source_url": "https://www.cbsnews.com/amp/boston/news/boston-space-saver-rules-snow-parking-storm"
+ },
+ {
+  "term": "splice closure",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "A sealed housing on an aerial cable that protects the point where cables are joined.",
+  "section": "utility-poles",
+  "source_url": "https://www.ecmag.com/section/systems/look-fiber-optics-above-you"
+ },
+ {
+  "term": "standpipe",
+  "aka": "",
+  "category": "Fire",
+  "definition": "A vertical pipe in a building with hose outlets on each floor, fed through an FDC marked STANDPIPE.",
+  "section": "fire-hardware",
+  "source_url": "https://blog.qrfs.com/96-standpipe-systems-part-7-standpipe-signs-and-markings/"
+ },
+ {
+  "term": "steamer connection",
+  "aka": "pumper outlet",
+  "category": "Fire",
+  "definition": "The largest outlet on a US hydrant, used by a pumper engine to take its supply.",
+  "section": "hydrants",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_hydrant"
+ },
+ {
+  "term": "stop line",
+  "aka": "stop bar",
+  "category": "Road markings",
+  "definition": "A solid white line across the lane, 12 to 24 inches wide in the US, showing where to stop.",
+  "section": "crosswalks",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "storm drain marker",
+  "aka": "drain medallion",
+  "category": "Covers and lids",
+  "definition": "A curbside disc or stencil warning that the drain carries untreated runoff to a waterway.",
+  "section": "lids-grates",
+  "source_url": "https://env.uky.edu/stormwater/storm-drain-marking-program"
+ },
+ {
+  "term": "street box",
+  "aka": "fire alarm box",
+  "category": "Boston",
+  "definition": "A public pull-handle fire alarm box on a pedestal or pole, carrying a number that identifies its location.",
+  "section": "boston",
+  "source_url": "https://www.bostonglobe.com/2026/04/03/metro/fire-alarm-boxes/"
+ },
+ {
+  "term": "Street name sign",
+  "aka": "street blade",
+  "category": "Signs",
+  "definition": "The corner sign naming a street; US rules require mixed-case lettering, minimum letter heights and one of four color schemes.",
+  "section": "signs",
+  "source_url": "https://www.compliancesigns.com/media/productbulletins/StreetNameFAQ.pdf"
+ },
+ {
+  "term": "street occupancy permit",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A Boston permit reserving curb space, for example for a move, that comes with cardboard City of Boston No Parking signs.",
+  "section": "work-zones",
+  "source_url": "https://www.boston.gov/node/22561"
+ },
+ {
+  "term": "sump",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "The low chamber of a catch basin where sediment collects; cleaned before it is 60% full.",
+  "section": "lids-grates",
+  "source_url": "https://www.stormwatercenter.net/Pollution_Prevention_Factsheets/CatchBasins.htm"
+ },
+ {
+  "term": "tactile warning strip",
+  "aka": "detectable warning",
+  "category": "Boston",
+  "definition": "The bumpy panel at the foot of a curb ramp; pale yellow in Boston, brick red on historic brick sidewalks.",
+  "section": "boston",
+  "source_url": "https://www.cityofboston.gov/images_documents/sidewalk%20policy%200114_tcm3-41668.pdf"
+ },
+ {
+  "term": "tamper switch",
+  "aka": "",
+  "category": "Fire",
+  "definition": "An electric sensor that signals an alarm if a sprinkler control valve is moved off open.",
+  "section": "fire-hardware",
+  "source_url": "https://blog.koorsen.com/what-is-a-post-indicator-valve-piv-and-are-they-required"
+ },
+ {
+  "term": "telecom pedestal",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A smaller, often vented box where phone, cable or fiber lines branch out.",
+  "section": "work-zones",
+  "source_url": "https://engineerfix.com/what-are-the-green-utility-boxes-in-my-yard/"
+ },
+ {
+  "term": "tenji block",
+  "aka": "tactile block",
+  "category": "Curb and sidewalk",
+  "definition": "Japanese tactile paving invented by Seiichi Miyake in 1965; dot blocks warn and bar blocks guide.",
+  "section": "curbs",
+  "source_url": "https://en.wikipedia.org/wiki/Seiichi_Miyake"
+ },
+ {
+  "term": "thermoplastic",
+  "aka": "thermo",
+  "category": "Road markings",
+  "definition": "A marking material melted onto the road in a thick layer; lasts several years but can be scraped off by plows.",
+  "section": "road-lines",
+  "source_url": "https://www.intrans.iastate.edu/wp-content/uploads/2019/11/TSIS_faq5l.pdf"
+ },
+ {
+  "term": "Ticket",
+  "aka": "locate request",
+  "category": "Paint marks",
+  "definition": "The record of a dig request, with a start time and an expiry date; in Massachusetts it lasts 30 days.",
+  "section": "paint",
+  "source_url": "https://www.mass.gov/guides/about-dig-safe"
+ },
+ {
+  "term": "Tolerance zone",
+  "aka": "hand-dig zone",
+  "category": "Paint marks",
+  "definition": "The width of a facility plus 18 in. on either side, where excavators avoid machine digging under CGA practice.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Tolerance-Zone"
+ },
+ {
+  "term": "toucan crossing",
+  "aka": "",
+  "category": "Poles and signals",
+  "definition": "A UK signalized crossing shared by pedestrians and cyclists.",
+  "section": "signal-gear",
+  "source_url": "https://www.carbuyer.co.uk/tips-and-advice/171939/pelican-or-puffin-crossing-all-uk-pedestrian-crossings-explained"
+ },
+ {
+  "term": "Transport",
+  "aka": "Transport typeface",
+  "category": "Signs",
+  "definition": "The lettering on UK road signs, designed by Jock Kinneir and Margaret Calvert between 1957 and 1963.",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/Transport_(typeface)"
+ },
+ {
+  "term": "tree grate",
+  "aka": "",
+  "category": "Covers and lids",
+  "definition": "A walkable cast-iron grille around a street tree that lets water reach the roots.",
+  "section": "lids-grates",
+  "source_url": "https://parisianfields.com/2011/10/09/walking-on-cast-iron-in-paris"
+ },
+ {
+  "term": "Triangulation station",
+  "aka": "",
+  "category": "Survey marks",
+  "definition": "A survey mark with a known horizontal position, shown by an inscribed triangle on the disk.",
+  "section": "survey-marks",
+  "source_url": "https://en.wikipedia.org/wiki/Survey_marker"
+ },
+ {
+  "term": "truncated dome",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A flat-topped bump 0.2 in (5.1 mm) high, set in rows on US detectable warning panels.",
+  "section": "curbs",
+  "source_url": "https://www.corada.com/documents/2010ADAStandards/705-1"
+ },
+ {
+  "term": "TSRGD",
+  "aka": "Traffic Signs Regulations and General Directions",
+  "category": "Signs",
+  "definition": "The UK legal rulebook for traffic signs, first issued in 1964.",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/Worboys_Committee"
+ },
+ {
+  "term": "two-stage turn box",
+  "aka": "two-stage bicycle turn box",
+  "category": "Road markings",
+  "definition": "A box at the side of an intersection where cyclists pause to make a left turn in two steps.",
+  "section": "crosswalks",
+  "source_url": "https://nacto.org/wp-content/uploads/2024-1030-NACTO-MUTCD-Webinar-5-Bikes.pdf"
+ },
+ {
+  "term": "Type III barricade",
+  "aka": "",
+  "category": "Work zones",
+  "definition": "A barricade at least 5 ft tall with 3 or 6 striped faces, used for extended road closures.",
+  "section": "work-zones",
+  "source_url": "https://seattle.gov/Documents/Departments/SDOT/About/DocumentLibrary/TrafficControlManual/IV.MaterialsandPersonnelforTrafficControl.pdf"
+ },
+ {
+  "term": "unmarked crosswalk",
+  "aka": "implied crosswalk",
+  "category": "Road markings",
+  "definition": "The legal crosswalk that exists at an intersection leg whether or not it is painted, in most US states.",
+  "section": "crosswalks",
+  "source_url": "https://www.fhwa.dot.gov/publications/research/safety/04100/01.cfm"
+ },
+ {
+  "term": "vault light",
+  "aka": "pavement light; prism light",
+  "category": "Covers and lids",
+  "definition": "Glass lenses or prisms set in a sidewalk panel to light the vault below; patented by Thaddeus Hyatt in 1845.",
+  "section": "lids-grates",
+  "source_url": "https://tribecatrib.com/content/riches-underfoot-vault-lights-tribeca"
+ },
+ {
+  "term": "vented cover",
+  "aka": "slotted cover",
+  "category": "Covers and lids",
+  "definition": "A manhole cover with slots or holes that let smoke and gas escape instead of building up to an explosion.",
+  "section": "manhole-covers",
+  "source_url": "https://www.cbsnews.com/newyork/news/new-york-city-manhole-explosions-epidemic-puts-pressure-on-con-edison/"
+ },
+ {
+  "term": "video detection",
+  "aka": "detection camera",
+  "category": "Poles and signals",
+  "definition": "A fixed-focus camera on a signal structure that watches predefined zones and places a call to the controller.",
+  "section": "signal-gear",
+  "source_url": "https://www.bloomingtonmn.gov/node/5986"
+ },
+ {
+  "term": "Vienna Convention",
+  "aka": "Vienna Convention on Road Signs and Signals",
+  "category": "Signs",
+  "definition": "A 1968 UN treaty standardizing sign shapes, colors and symbols, in force since 1978 with 71 parties as of September 2024.",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/Vienna_Convention_on_Road_Signs_and_Signals"
+ },
+ {
+  "term": "wall indicator valve",
+  "aka": "wall post indicator valve",
+  "category": "Fire",
+  "definition": "A sprinkler supply valve operated from the building wall, allowed by NFPA 24 as an alternative to a PIV since 2010.",
+  "section": "fire-hardware",
+  "source_url": "https://blog.qrfs.com/?p=5735"
+ },
+ {
+  "term": "Warning sign",
+  "aka": "",
+  "category": "Signs",
+  "definition": "A sign alerting drivers to a hazard ahead, generally a diamond with a black legend on yellow in the US.",
+  "section": "signs",
+  "source_url": "https://mutcd-dr.fhwa.dot.gov/pdfs/11th_Edition/Chapter2c.pdf"
+ },
+ {
+  "term": "water motor gong",
+  "aka": "",
+  "category": "Fire",
+  "definition": "An outdoor sprinkler alarm bell driven by the flowing water itself, needing no electricity.",
+  "section": "fire-hardware",
+  "source_url": "https://blog.qrfs.com/360-how-does-a-water-motor-gong-work-in-fire-sprinkler-systems/"
+ },
+ {
+  "term": "wet-barrel hydrant",
+  "aka": "",
+  "category": "Fire",
+  "definition": "A warm-climate hydrant that stays full of water, with a separate valve for each outlet.",
+  "section": "hydrants",
+  "source_url": "https://en.wikipedia.org/wiki/Fire_hydrant"
+ },
+ {
+  "term": "Whiskers",
+  "aka": "",
+  "category": "Paint marks",
+  "definition": "Tufts of colored plastic strands driven into the ground as a locate or premark.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Guidelines-for-Operator-Facility-Field-Delineation"
+ },
+ {
+  "term": "White-lining",
+  "aka": "premarking",
+  "category": "Paint marks",
+  "definition": "Outlining a planned dig area in white paint, flags or stakes before requesting locates.",
+  "section": "paint",
+  "source_url": "https://bestpractices.commongroundalliance.com/Appendix-B-Uniform-Color-Code-and-Marking-Guide/Guidelines-for-Excavation-Delineation"
+ },
+ {
+  "term": "wide line",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A line at least twice the normal 4 to 6 inch width, used for emphasis.",
+  "section": "road-lines",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "wire-cut brick",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "Machine-cut brick with crisp edges that Boston uses to rebuild historic brick sidewalks with a smoother surface.",
+  "section": "sidewalks",
+  "source_url": "https://www.cityofboston.gov/images_documents/sidewalk%20policy%200114_tcm3-41668.pdf"
+ },
+ {
+  "term": "Worboys report",
+  "aka": "Worboys Committee",
+  "category": "Signs",
+  "definition": "The 1963 UK committee report that produced Britain's modern road sign system, law from 1 January 1965.",
+  "section": "sign-codes",
+  "source_url": "https://en.wikipedia.org/wiki/Worboys_Committee"
+ },
+ {
+  "term": "WPA stamp",
+  "aka": "",
+  "category": "Curb and sidewalk",
+  "definition": "A mark pressed into concrete by Works Progress Administration crews, with dated examples from 1936 to 1940.",
+  "section": "sidewalks",
+  "source_url": "https://livingnewdeal.org/new-deal-categories/sidewalks-and-stairs"
+ },
+ {
+  "term": "yield line",
+  "aka": "shark's teeth",
+  "category": "Road markings",
+  "definition": "A row of white triangles pointing toward approaching drivers, showing where to yield.",
+  "section": "crosswalks",
+  "source_url": "https://mutcd.fhwa.dot.gov/pdfs/11th_Edition/part3.pdf"
+ },
+ {
+  "term": "zebra crossing",
+  "aka": "",
+  "category": "Road markings",
+  "definition": "A UK pedestrian crossing with black-and-white stripes and Belisha beacons where drivers must give way to pedestrians.",
+  "section": "crosswalks",
+  "source_url": "https://en.wikipedia.org/wiki/Zebra_crossing"
+ }
+]

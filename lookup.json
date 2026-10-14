@@ -1,0 +1,2926 @@
+[
+ {
+  "see": "Colored spray paint lines on the street or lawn",
+  "is": "Utility locate marks; the color shows the type of buried line.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "colors",
+   "utility",
+   "locate",
+   "lawn"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Red spray paint on the ground",
+  "is": "Buried electric power lines, cables or conduit.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "red",
+   "electric",
+   "power"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Yellow spray paint on the road",
+  "is": "Buried gas, oil, steam or petroleum line.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "yellow",
+   "gas",
+   "oil",
+   "steam"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Orange spray paint on the sidewalk",
+  "is": "Buried telecommunications, alarm or signal cable.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "orange",
+   "telecom",
+   "cable",
+   "fiber"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Blue spray paint lines and arrows on the road",
+  "is": "Buried drinking water line.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "blue",
+   "water"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Green spray paint on the street",
+  "is": "Buried sewer or drain line.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "green",
+   "sewer",
+   "drain"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Purple paint marks",
+  "is": "Reclaimed water, irrigation or slurry line.",
+  "section": "paint",
+  "anchor": "What do the colors mean?",
+  "tags": [
+   "paint",
+   "purple",
+   "reclaimed",
+   "irrigation"
+  ],
+  "c": "org",
+  "sid": "what-do-the-colors-mean"
+ },
+ {
+  "see": "Letters like FO, G, W or a company name painted beside lines",
+  "is": "Owner and facility codes for the buried line.",
+  "section": "paint",
+  "anchor": "What do the letters next to the paint mean?",
+  "tags": [
+   "paint",
+   "letters",
+   "abbreviations",
+   "fo",
+   "owner"
+  ],
+  "c": "org",
+  "sid": "what-do-the-letters-next-to-the-paint-mean"
+ },
+ {
+  "see": "The word NO and a company name sprayed on the ground",
+  "is": "No-conflict mark: that owner has nothing in the dig area.",
+  "section": "paint",
+  "anchor": "What does \"NO\" spray-painted on the ground mean?",
+  "tags": [
+   "paint",
+   "no",
+   "conflict",
+   "clear"
+  ],
+  "c": "org",
+  "sid": "what-does-no-spray-painted-on-the-ground-mean"
+ },
+ {
+  "see": "Painted H shape, arrows or OFF with a number",
+  "is": "Locate symbols for width, direction changes and offsets.",
+  "section": "paint",
+  "anchor": "What do the arrows, H-shapes and numbers mean?",
+  "tags": [
+   "paint",
+   "arrow",
+   "offset",
+   "h",
+   "symbols"
+  ],
+  "c": "org",
+  "sid": "what-do-the-arrows-h-shapes-and-numbers-mean"
+ },
+ {
+  "see": "Little colored flags or plastic bristles in the yard",
+  "is": "Locate flags and whiskers marking buried lines.",
+  "section": "paint",
+  "anchor": "What are the little flags and plastic whiskers in my yard?",
+  "tags": [
+   "flags",
+   "whiskers",
+   "yard",
+   "stakes"
+  ],
+  "c": "org",
+  "sid": "what-are-the-little-flags-and-plastic-whiskers-in-my-yard"
+ },
+ {
+  "see": "White paint outline or white flags on the ground",
+  "is": "Premarking of a planned dig area.",
+  "section": "paint",
+  "anchor": "What does white paint mean before digging?",
+  "tags": [
+   "paint",
+   "white",
+   "premark",
+   "dig"
+  ],
+  "c": "org",
+  "sid": "what-does-white-paint-mean-before-digging"
+ },
+ {
+  "see": "Workers digging by hand near paint marks",
+  "is": "They are inside the tolerance zone around a marked line.",
+  "section": "paint",
+  "anchor": "How close to the marks can you dig?",
+  "tags": [
+   "tolerance",
+   "hand",
+   "dig",
+   "zone"
+  ],
+  "c": "org",
+  "sid": "how-close-to-the-marks-can-you-dig"
+ },
+ {
+  "see": "Faded paint marks with fresh marks on top",
+  "is": "An old locate ticket renewed or replaced.",
+  "section": "paint",
+  "anchor": "How long do the marks last?",
+  "tags": [
+   "faded",
+   "ticket",
+   "expiry",
+   "marks"
+  ],
+  "c": "org",
+  "sid": "how-long-do-the-marks-last"
+ },
+ {
+  "see": "Call 811 before you dig sign or sticker",
+  "is": "The US call-before-you-dig number for one-call centers.",
+  "section": "paint",
+  "anchor": "What is 811?",
+  "tags": [
+   "811",
+   "dig",
+   "call",
+   "safety"
+  ],
+  "c": "org",
+  "sid": "what-is-811"
+ },
+ {
+  "see": "Round brass or aluminum disk in a curb or sidewalk",
+  "is": "A survey mark such as an NGS benchmark.",
+  "section": "survey-marks",
+  "anchor": "What is the round brass disk in the sidewalk?",
+  "tags": [
+   "disk",
+   "benchmark",
+   "brass",
+   "survey"
+  ],
+  "c": "pnk",
+  "sid": "what-is-the-round-brass-disk-in-the-sidewalk"
+ },
+ {
+  "see": "Survey disk with a triangle or an arrow",
+  "is": "Triangulation station or reference mark.",
+  "section": "survey-marks",
+  "anchor": "What do the triangle and arrow on a survey disk mean?",
+  "tags": [
+   "disk",
+   "triangle",
+   "arrow",
+   "reference"
+  ],
+  "c": "pnk",
+  "sid": "what-do-the-triangle-and-arrow-on-a-survey-disk-mean"
+ },
+ {
+  "see": "Small nail head with washer in the asphalt",
+  "is": "A surveyor's PK or MAG nail.",
+  "section": "survey-marks",
+  "anchor": "What is a PK nail in the road?",
+  "tags": [
+   "nail",
+   "pk",
+   "mag",
+   "asphalt",
+   "survey"
+  ],
+  "c": "pnk",
+  "sid": "what-is-a-pk-nail-in-the-road"
+ },
+ {
+  "see": "X or small square cut into a curb",
+  "is": "A chiseled survey mark or reference point.",
+  "section": "survey-marks",
+  "anchor": "What is the X or square chiseled into the curb?",
+  "tags": [
+   "curb",
+   "cross",
+   "chiseled",
+   "survey"
+  ],
+  "c": "pnk",
+  "sid": "what-is-the-x-or-square-chiseled-into-the-curb"
+ },
+ {
+  "see": "Metal rod with a colored cap at a property corner",
+  "is": "A property pin set by a licensed land surveyor.",
+  "section": "survey-marks",
+  "anchor": "What is the metal rod with a cap at my property corner?",
+  "tags": [
+   "pin",
+   "rebar",
+   "property",
+   "corner",
+   "boundary"
+  ],
+  "c": "pnk",
+  "sid": "what-is-the-metal-rod-with-a-cap-at-my-property-corner"
+ },
+ {
+  "see": "Hot pink spray paint dots or crosses on the road",
+  "is": "Temporary survey marks (or an unidentified buried facility).",
+  "section": "survey-marks",
+  "anchor": "What does pink spray paint on the road mean?",
+  "tags": [
+   "paint",
+   "pink",
+   "survey"
+  ],
+  "c": "pnk",
+  "sid": "what-does-pink-spray-paint-on-the-road-mean"
+ },
+ {
+  "see": "Line with an arrow carved into an old wall in England",
+  "is": "Ordnance Survey cut benchmark.",
+  "section": "survey-marks",
+  "anchor": "What is the arrow carved into old buildings in England?",
+  "tags": [
+   "uk",
+   "benchmark",
+   "arrow",
+   "crows foot",
+   "carved"
+  ],
+  "c": "pnk",
+  "sid": "what-is-the-arrow-carved-into-old-buildings-in-england"
+ },
+ {
+  "see": "Metal plate with OS and an arrow on a wall",
+  "is": "Ordnance Survey flush bracket.",
+  "section": "survey-marks",
+  "anchor": "What is a flush bracket on a wall?",
+  "tags": [
+   "uk",
+   "flush bracket",
+   "os",
+   "plate"
+  ],
+  "c": "pnk",
+  "sid": "what-is-a-flush-bracket-on-a-wall"
+ },
+ {
+  "see": "Fire hydrant with a light blue, green, orange or red top",
+  "is": "The top color shows flow class under the voluntary NFPA 291 scheme",
+  "section": "hydrants",
+  "anchor": "What do the colors on a fire hydrant mean?",
+  "tags": [
+   "hydrant",
+   "color",
+   "top",
+   "bonnet",
+   "flow"
+  ],
+  "c": "red",
+  "sid": "what-do-the-colors-on-a-fire-hydrant-mean"
+ },
+ {
+  "see": "Purple or violet fire hydrant",
+  "is": "A hydrant on reclaimed or non-potable water",
+  "section": "hydrants",
+  "anchor": "What do the colors on a fire hydrant mean?",
+  "tags": [
+   "hydrant",
+   "purple",
+   "violet",
+   "reclaimed",
+   "non-potable"
+  ],
+  "c": "red",
+  "sid": "what-do-the-colors-on-a-fire-hydrant-mean"
+ },
+ {
+  "see": "Black fire hydrant or a hydrant wrapped in a bag",
+  "is": "A hydrant out of service or inoperable",
+  "section": "hydrants",
+  "anchor": "What do the colors on a fire hydrant mean?",
+  "tags": [
+   "hydrant",
+   "black",
+   "bag",
+   "out of service"
+  ],
+  "c": "red",
+  "sid": "what-do-the-colors-on-a-fire-hydrant-mean"
+ },
+ {
+  "see": "Red hydrants in one city, yellow in another",
+  "is": "Local color choices; many cities do not follow NFPA 291",
+  "section": "hydrants",
+  "anchor": "Why doesn't my city follow the color code?",
+  "tags": [
+   "hydrant",
+   "red",
+   "yellow",
+   "city",
+   "color"
+  ],
+  "c": "red",
+  "sid": "why-doesn-t-my-city-follow-the-color-code"
+ },
+ {
+  "see": "Big outlet and two small outlets on a hydrant",
+  "is": "The steamer (pumper) outlet and two hose outlets",
+  "section": "hydrants",
+  "anchor": "What are the caps and outlets on a hydrant?",
+  "tags": [
+   "hydrant",
+   "outlet",
+   "steamer",
+   "cap",
+   "storz"
+  ],
+  "c": "red",
+  "sid": "what-are-the-caps-and-outlets-on-a-hydrant"
+ },
+ {
+  "see": "Hydrant with a separate valve beside each outlet",
+  "is": "A wet-barrel hydrant, used in warm climates",
+  "section": "hydrants",
+  "anchor": "Dry barrel or wet barrel: why some hydrants have one nut on top and others have three on the side",
+  "tags": [
+   "hydrant",
+   "wet barrel",
+   "valve",
+   "california"
+  ],
+  "c": "red",
+  "sid": "dry-barrel-or-wet-barrel-why-some-hydrants-have-one-nut-on-top-and-others-have-three-on-the-side"
+ },
+ {
+  "see": "Five-sided nut on top of a fire hydrant",
+  "is": "A pentagon nut that only a hydrant wrench fits",
+  "section": "hydrants",
+  "anchor": "Why is the nut on a fire hydrant a pentagon?",
+  "tags": [
+   "hydrant",
+   "nut",
+   "pentagon",
+   "wrench"
+  ],
+  "c": "red",
+  "sid": "why-is-the-nut-on-a-fire-hydrant-a-pentagon"
+ },
+ {
+  "see": "Tall red or orange pole sticking up from a hydrant",
+  "is": "A snow marker so crews can find the hydrant under snowbanks",
+  "section": "hydrants",
+  "anchor": "What is the tall pole sticking out of a hydrant?",
+  "tags": [
+   "hydrant",
+   "snow",
+   "flag",
+   "pole",
+   "marker"
+  ],
+  "c": "red",
+  "sid": "what-is-the-tall-pole-sticking-out-of-a-hydrant"
+ },
+ {
+  "see": "Blue reflector bump in the middle of the road",
+  "is": "A raised pavement marker showing a nearby fire hydrant",
+  "section": "hydrants",
+  "anchor": "What does a blue reflector in the road mean?",
+  "tags": [
+   "blue",
+   "reflector",
+   "road",
+   "cat's eye",
+   "hydrant"
+  ],
+  "c": "red",
+  "sid": "what-does-a-blue-reflector-in-the-road-mean"
+ },
+ {
+  "see": "Yellow or red curb next to a fire hydrant",
+  "is": "No-parking zone at a hydrant; the distance rule applies even without paint",
+  "section": "hydrants",
+  "anchor": "How far do you have to park from a fire hydrant?",
+  "tags": [
+   "parking",
+   "curb",
+   "hydrant",
+   "distance"
+  ],
+  "c": "red",
+  "sid": "how-far-do-you-have-to-park-from-a-fire-hydrant"
+ },
+ {
+  "see": "Yellow sign with a black H and two numbers on a wall",
+  "is": "UK hydrant plate: main size in mm over distance to the hydrant in m",
+  "section": "hydrants",
+  "anchor": "Elsewhere in the world: the UK's yellow H plate",
+  "tags": [
+   "uk",
+   "h plate",
+   "yellow",
+   "hydrant",
+   "sign"
+  ],
+  "c": "red",
+  "sid": "elsewhere-in-the-world-the-uk-s-yellow-h-plate"
+ },
+ {
+  "see": "Small yellow metal cover in the pavement marked FH",
+  "is": "The lid over an underground UK fire hydrant",
+  "section": "hydrants",
+  "anchor": "Elsewhere in the world: the UK's yellow H plate",
+  "tags": [
+   "uk",
+   "cover",
+   "fh",
+   "yellow",
+   "hydrant"
+  ],
+  "c": "red",
+  "sid": "elsewhere-in-the-world-the-uk-s-yellow-h-plate"
+ },
+ {
+  "see": "White sign with red border, a T shape and an H in Germany",
+  "is": "German hydrant sign giving pipe size and distance in meters",
+  "section": "hydrants",
+  "anchor": "Elsewhere in the world: Germany's red-bordered hydrant sign",
+  "tags": [
+   "germany",
+   "hydrantenschild",
+   "sign",
+   "hydrant"
+  ],
+  "c": "red",
+  "sid": "elsewhere-in-the-world-germany-s-red-bordered-hydrant-sign"
+ },
+ {
+  "see": "Red sign with white characters 消火栓 in Japan",
+  "is": "A Japanese fire hydrant sign; no parking within 5 m",
+  "section": "hydrants",
+  "anchor": "Elsewhere in the world: Japan's 消火栓 lids and signs",
+  "tags": [
+   "japan",
+   "shokasen",
+   "sign",
+   "hydrant"
+  ],
+  "c": "red",
+  "sid": "elsewhere-in-the-world-japan-s-lids-and-signs"
+ },
+ {
+  "see": "Blue reflector and painted triangle on an Australian road",
+  "is": "Markers locating an underground hydrant",
+  "section": "hydrants",
+  "anchor": "Elsewhere in the world: Australia's blue cat's eyes and hydrant plates",
+  "tags": [
+   "australia",
+   "blue",
+   "triangle",
+   "hydrant",
+   "plate"
+  ],
+  "c": "red",
+  "sid": "elsewhere-in-the-world-australia-s-blue-cat-s-eyes-and-hydrant-plates"
+ },
+ {
+  "see": "Brass pipe with two capped inlets on a building wall",
+  "is": "A fire department connection (Siamese) for sprinklers or standpipes",
+  "section": "fire-hardware",
+  "anchor": "What is the pipe with two caps sticking out of a building?",
+  "tags": [
+   "fdc",
+   "siamese",
+   "inlet",
+   "sprinkler",
+   "standpipe"
+  ],
+  "c": "red",
+  "sid": "what-is-the-pipe-with-two-caps-sticking-out-of-a-building"
+ },
+ {
+  "see": "Sign reading AUTOSPKR or STANDPIPE on a building",
+  "is": "Label telling firefighters what the FDC feeds",
+  "section": "fire-hardware",
+  "anchor": "What does AUTOSPKR mean on a sign?",
+  "tags": [
+   "autospkr",
+   "standpipe",
+   "sign",
+   "fdc"
+  ],
+  "c": "red",
+  "sid": "what-does-autospkr-mean-on-a-sign"
+ },
+ {
+  "see": "Small black steel box beside a building's front door",
+  "is": "A Knox-Box rapid-entry key box for the fire department",
+  "section": "fire-hardware",
+  "anchor": "What is the small black box by a building door?",
+  "tags": [
+   "knox",
+   "key box",
+   "door",
+   "fire department"
+  ],
+  "c": "red",
+  "sid": "what-is-the-small-black-box-by-a-building-door"
+ },
+ {
+  "see": "Post with a window saying OPEN or SHUT in front of a building",
+  "is": "A post indicator valve for the sprinkler water supply",
+  "section": "fire-hardware",
+  "anchor": "What is the post with OPEN or SHUT in front of a building?",
+  "tags": [
+   "piv",
+   "valve",
+   "open",
+   "shut",
+   "sprinkler"
+  ],
+  "c": "red",
+  "sid": "what-is-the-post-with-open-or-shut-in-front-of-a-building"
+ },
+ {
+  "see": "Valve handle with an OPEN or SHUT window on a building wall",
+  "is": "A wall indicator valve for the sprinkler supply",
+  "section": "fire-hardware",
+  "anchor": "What is the post with OPEN or SHUT in front of a building?",
+  "tags": [
+   "wall valve",
+   "indicator",
+   "sprinkler",
+   "open"
+  ],
+  "c": "red",
+  "sid": "what-is-the-post-with-open-or-shut-in-front-of-a-building"
+ },
+ {
+  "see": "Red bell or gong on the outside wall of a building",
+  "is": "A sprinkler waterflow alarm; call 911 if it rings",
+  "section": "fire-hardware",
+  "anchor": "Why is there a red bell on the outside of a building?",
+  "tags": [
+   "bell",
+   "gong",
+   "sprinkler",
+   "alarm"
+  ],
+  "c": "red",
+  "sid": "why-is-there-a-red-bell-on-the-outside-of-a-building"
+ },
+ {
+  "see": "Red curb with NO PARKING FIRE LANE stenciled",
+  "is": "A fire lane that must be kept clear for fire engines",
+  "section": "fire-hardware",
+  "anchor": "What does a red curb or a NO PARKING FIRE LANE sign mean?",
+  "tags": [
+   "red curb",
+   "fire lane",
+   "parking",
+   "sign"
+  ],
+  "c": "red",
+  "sid": "what-does-a-red-curb-or-a-no-parking-fire-lane-sign-mean"
+ },
+ {
+  "see": "Red box on a pole or post with a number plate",
+  "is": "A fire alarm telegraph box that summons the fire department",
+  "section": "fire-hardware",
+  "anchor": "What is the red box on a pole with a number on it?",
+  "tags": [
+   "fire alarm",
+   "box",
+   "gamewell",
+   "red"
+  ],
+  "c": "red",
+  "sid": "what-is-the-red-box-on-a-pole-with-a-number-on-it"
+ },
+ {
+  "see": "Red EMERGENCY sign above a box on a Boston utility pole",
+  "is": "Marks a Boston fire alarm box",
+  "section": "fire-hardware",
+  "anchor": "Do Boston fire alarm boxes still work?",
+  "tags": [
+   "boston",
+   "emergency",
+   "fire alarm",
+   "pole"
+  ],
+  "c": "red",
+  "sid": "do-boston-fire-alarm-boxes-still-work"
+ },
+ {
+  "see": "Red glowing globe or lantern on a post in Boston",
+  "is": "The night lamp marking a fire alarm box",
+  "section": "fire-hardware",
+  "anchor": "What is the red light on top of a Boston fire alarm box?",
+  "tags": [
+   "boston",
+   "red light",
+   "lamp",
+   "fire alarm"
+  ],
+  "c": "red",
+  "sid": "what-is-the-red-light-on-top-of-a-boston-fire-alarm-box"
+ },
+ {
+  "see": "Gray meter with a bell-shaped device and a downward vent pipe",
+  "is": "A gas meter and service regulator; keep the vent clear",
+  "section": "fire-hardware",
+  "anchor": "What is the gray meter with a bell-shaped thing on the pipe?",
+  "tags": [
+   "gas",
+   "meter",
+   "regulator",
+   "vent"
+  ],
+  "c": "red",
+  "sid": "what-is-the-gray-meter-with-a-bell-shaped-thing-on-the-pipe"
+ },
+ {
+  "see": "Heavy round metal lid in the street with letters on it",
+  "is": "A manhole cover over a sewer, drain, water, gas, power or phone shaft",
+  "section": "manhole-covers",
+  "anchor": "Why are manhole covers round?",
+  "tags": [
+   "manhole",
+   "cover",
+   "round",
+   "street"
+  ],
+  "c": "blu",
+  "sid": "why-are-manhole-covers-round"
+ },
+ {
+  "see": "Triangular metal manhole cover",
+  "is": "A Nashua, NH sewer cover; elsewhere usually a monitoring well",
+  "section": "manhole-covers",
+  "anchor": "Why are some covers square, rectangular or triangular?",
+  "tags": [
+   "triangle",
+   "manhole",
+   "nashua",
+   "cover"
+  ],
+  "c": "blu",
+  "sid": "why-are-some-covers-square-rectangular-or-triangular"
+ },
+ {
+  "see": "Square or rectangular metal or concrete lid",
+  "is": "A cover over a shallow box or vault, such as a telecom joint box",
+  "section": "manhole-covers",
+  "anchor": "Why are some covers square, rectangular or triangular?",
+  "tags": [
+   "square",
+   "rectangular",
+   "cover",
+   "telecom"
+  ],
+  "c": "blu",
+  "sid": "why-are-some-covers-square-rectangular-or-triangular"
+ },
+ {
+  "see": "Foundry name or year cast into a cover",
+  "is": "The maker and date, such as Neenah Foundry or Pont-a-Mousson",
+  "section": "manhole-covers",
+  "anchor": "What do the letters on a manhole cover mean?",
+  "tags": [
+   "foundry",
+   "letters",
+   "neenah",
+   "date"
+  ],
+  "c": "blu",
+  "sid": "what-do-the-letters-on-a-manhole-cover-mean"
+ },
+ {
+  "see": "Manhole cover marked BWSC or BWW in Boston",
+  "is": "Boston Water and Sewer Commission, or the older Boston Water Works",
+  "section": "manhole-covers",
+  "anchor": "In Boston: a cover decoder",
+  "tags": [
+   "boston",
+   "bwsc",
+   "water",
+   "sewer"
+  ],
+  "c": "blu",
+  "sid": "in-boston-a-cover-decoder"
+ },
+ {
+  "see": "Cover marked B.C.G.Co or BCG",
+  "is": "Boston Consolidated Gas, renamed Boston Gas in 1955",
+  "section": "manhole-covers",
+  "anchor": "In Boston: a cover decoder",
+  "tags": [
+   "boston",
+   "gas",
+   "bcg",
+   "cover"
+  ],
+  "c": "blu",
+  "sid": "in-boston-a-cover-decoder"
+ },
+ {
+  "see": "Cover marked New England Telephone or NET&T",
+  "is": "The old Bell phone company for New England, now Verizon",
+  "section": "manhole-covers",
+  "anchor": "In Boston: a cover decoder",
+  "tags": [
+   "boston",
+   "telephone",
+   "verizon",
+   "bell"
+  ],
+  "c": "blu",
+  "sid": "in-boston-a-cover-decoder"
+ },
+ {
+  "see": "Cover marked EEI",
+  "is": "Edison Electric Illuminating Co. of Boston, ancestor of Eversource",
+  "section": "manhole-covers",
+  "anchor": "In Boston: a cover decoder",
+  "tags": [
+   "boston",
+   "electric",
+   "eei",
+   "eversource"
+  ],
+  "c": "blu",
+  "sid": "in-boston-a-cover-decoder"
+ },
+ {
+  "see": "Open hole where a manhole cover should be",
+  "is": "A missing or stolen cover; keep clear and report it",
+  "section": "manhole-covers",
+  "anchor": "How heavy is a manhole cover, and why do people steal them?",
+  "tags": [
+   "missing",
+   "stolen",
+   "theft",
+   "hole"
+  ],
+  "c": "blu",
+  "sid": "how-heavy-is-a-manhole-cover-and-why-do-people-steal-them"
+ },
+ {
+  "see": "Smoke or flames coming out of a manhole",
+  "is": "An underground electrical cable failure; move away and call 911",
+  "section": "manhole-covers",
+  "anchor": "Why do manholes smoke or explode in winter?",
+  "tags": [
+   "smoke",
+   "explosion",
+   "fire",
+   "manhole"
+  ],
+  "c": "blu",
+  "sid": "why-do-manholes-smoke-or-explode-in-winter"
+ },
+ {
+  "see": "Manhole cover with slots or holes",
+  "is": "A vented cover that lets gas and smoke escape",
+  "section": "manhole-covers",
+  "anchor": "Why do manholes smoke or explode in winter?",
+  "tags": [
+   "vented",
+   "slots",
+   "holes",
+   "cover"
+  ],
+  "c": "blu",
+  "sid": "why-do-manholes-smoke-or-explode-in-winter"
+ },
+ {
+  "see": "Orange and white striped tube with steam in New York",
+  "is": "A Con Edison steam stack venting a steam leak above street level",
+  "section": "manhole-covers",
+  "anchor": "What is the orange-and-white steam tube in New York?",
+  "tags": [
+   "steam",
+   "stack",
+   "nyc",
+   "orange"
+  ],
+  "c": "blu",
+  "sid": "what-is-the-orange-and-white-steam-tube-in-new-york"
+ },
+ {
+  "see": "Colorful manhole cover with a picture in Japan",
+  "is": "A municipal art sewer cover",
+  "section": "manhole-covers",
+  "anchor": "Why are Japan's manhole covers so decorative?",
+  "tags": [
+   "japan",
+   "art",
+   "manhole",
+   "color"
+  ],
+  "c": "blu",
+  "sid": "why-are-japan-s-manhole-covers-so-decorative"
+ },
+ {
+  "see": "Trading card with a picture of a manhole",
+  "is": "A Japanese manhole card from the Sewerage PR Platform",
+  "section": "manhole-covers",
+  "anchor": "How do I get Japanese manhole cards?",
+  "tags": [
+   "japan",
+   "card",
+   "collect",
+   "manhole"
+  ],
+  "c": "blu",
+  "sid": "how-do-i-get-japanese-manhole-cards"
+ },
+ {
+  "see": "British pavement cover marked GPO or BT",
+  "is": "A telephone joint box cover from the General Post Office or BT",
+  "section": "manhole-covers",
+  "anchor": "Elsewhere in the world",
+  "tags": [
+   "uk",
+   "gpo",
+   "bt",
+   "telephone"
+  ],
+  "c": "blu",
+  "sid": "elsewhere-in-the-world"
+ },
+ {
+  "see": "Berlin manhole cover covered in landmarks",
+  "is": "A Berlin Kanaldeckel showing city landmarks",
+  "section": "manhole-covers",
+  "anchor": "Elsewhere in the world",
+  "tags": [
+   "berlin",
+   "landmarks",
+   "cover",
+   "germany"
+  ],
+  "c": "blu",
+  "sid": "elsewhere-in-the-world"
+ },
+ {
+  "see": "Small round cap in the sidewalk that says WATER",
+  "is": "A curb box over a building's water shutoff",
+  "section": "lids-grates",
+  "anchor": "What is the small round \"WATER\" or \"GAS\" cap in the sidewalk?",
+  "tags": [
+   "water",
+   "cap",
+   "curb box",
+   "shutoff"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-small-round-water-or-gas-cap-in-the-sidewalk"
+ },
+ {
+  "see": "Small round cap that says GAS",
+  "is": "A gas valve box or service shutoff access",
+  "section": "lids-grates",
+  "anchor": "What is the small round \"WATER\" or \"GAS\" cap in the sidewalk?",
+  "tags": [
+   "gas",
+   "cap",
+   "valve",
+   "shutoff"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-small-round-water-or-gas-cap-in-the-sidewalk"
+ },
+ {
+  "see": "Small capped pipe near a house foundation",
+  "is": "Usually a sewer cleanout",
+  "section": "lids-grates",
+  "anchor": "What is the small capped pipe near the house?",
+  "tags": [
+   "cleanout",
+   "sewer",
+   "cap",
+   "plumbing"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-small-capped-pipe-near-the-house"
+ },
+ {
+  "see": "Bolted lid with a triangle at a gas station",
+  "is": "An environmental monitoring well cover",
+  "section": "lids-grates",
+  "anchor": "What is the bolted cover with a triangle at a gas station?",
+  "tags": [
+   "triangle",
+   "bolted",
+   "gas station",
+   "well"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-bolted-cover-with-a-triangle-at-a-gas-station"
+ },
+ {
+  "see": "Disc on the curb that says Don't Dump, drains to river",
+  "is": "A storm drain marker warning that runoff goes untreated to a waterway",
+  "section": "lids-grates",
+  "anchor": "What does \"Don't Dump - Drains to River\" on the curb mean?",
+  "tags": [
+   "storm drain",
+   "dont dump",
+   "river",
+   "marker"
+  ],
+  "c": "grn",
+  "sid": "what-does-don-t-dump-drains-to-river-on-the-curb-mean"
+ },
+ {
+  "see": "Grate in the gutter or slot in the curb",
+  "is": "A catch basin or storm drain inlet",
+  "section": "lids-grates",
+  "anchor": "What is the difference between a catch basin and a storm drain inlet?",
+  "tags": [
+   "drain",
+   "catch basin",
+   "grate",
+   "gutter"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-difference-between-a-catch-basin-and-a-storm-drain-inlet"
+ },
+ {
+  "see": "Drain grate with sideways or zigzag bars",
+  "is": "A bicycle-safe grate",
+  "section": "lids-grates",
+  "anchor": "Why do drain grates have bars going sideways?",
+  "tags": [
+   "bike",
+   "grate",
+   "drain",
+   "bars"
+  ],
+  "c": "grn",
+  "sid": "why-do-drain-grates-have-bars-going-sideways"
+ },
+ {
+  "see": "Metal grille around a street tree",
+  "is": "A tree grate",
+  "section": "lids-grates",
+  "anchor": "What is the metal grate around a street tree?",
+  "tags": [
+   "tree",
+   "grate",
+   "sidewalk",
+   "iron"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-metal-grate-around-a-street-tree"
+ },
+ {
+  "see": "Small round iron plate in a London pavement",
+  "is": "A coal hole cover",
+  "section": "lids-grates",
+  "anchor": "What are the small round iron plates in London pavements?",
+  "tags": [
+   "coal hole",
+   "london",
+   "iron",
+   "plate"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-small-round-iron-plates-in-london-pavements"
+ },
+ {
+  "see": "Purple glass circles in the sidewalk",
+  "is": "Vault lights that let daylight into the space below",
+  "section": "lids-grates",
+  "anchor": "What are the purple glass circles in the sidewalk?",
+  "tags": [
+   "glass",
+   "purple",
+   "vault light",
+   "prism"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-purple-glass-circles-in-the-sidewalk"
+ },
+ {
+  "see": "Metal double doors in the sidewalk in front of a store",
+  "is": "Cellar doors to a basement delivery entrance",
+  "section": "lids-grates",
+  "anchor": "What are the metal doors in the sidewalk in New York?",
+  "tags": [
+   "cellar",
+   "doors",
+   "basement",
+   "nyc"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-metal-doors-in-the-sidewalk-in-new-york"
+ },
+ {
+  "see": "Warm grate in the sidewalk in winter",
+  "is": "A vent for underground electrical, steam or transit space",
+  "section": "lids-grates",
+  "anchor": "Why is the grate on the sidewalk warm?",
+  "tags": [
+   "warm",
+   "grate",
+   "vent",
+   "steam"
+  ],
+  "c": "grn",
+  "sid": "why-is-the-grate-on-the-sidewalk-warm"
+ },
+ {
+  "see": "Small lid that says TRAFFIC SIGNAL or STREET LIGHT",
+  "is": "A pull box or handhole for city cable",
+  "section": "lids-grates",
+  "anchor": "What does \"TRAFFIC SIGNAL\" or \"STREET LIGHT\" on a small cover mean?",
+  "tags": [
+   "traffic signal",
+   "pull box",
+   "handhole",
+   "cable"
+  ],
+  "c": "grn",
+  "sid": "what-does-traffic-signal-or-street-light-on-a-small-cover-mean"
+ },
+ {
+  "see": "Yellow line down the middle of the road",
+  "is": "A center line separating traffic going in opposite directions (US)",
+  "section": "road-lines",
+  "anchor": "What do the colors of road lines mean?",
+  "tags": [
+   "yellow",
+   "center line",
+   "paint",
+   "lines"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-colors-of-road-lines-mean"
+ },
+ {
+  "see": "White lines between lanes and along the right edge",
+  "is": "Lane lines and edge lines for same-direction traffic (US)",
+  "section": "road-lines",
+  "anchor": "What do the colors of road lines mean?",
+  "tags": [
+   "white",
+   "lane line",
+   "edge line",
+   "lines"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-colors-of-road-lines-mean"
+ },
+ {
+  "see": "Purple lines approaching a toll plaza",
+  "is": "Lanes reserved for electronic toll account holders",
+  "section": "road-lines",
+  "anchor": "What do the colors of road lines mean?",
+  "tags": [
+   "purple",
+   "toll",
+   "lane",
+   "highway"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-colors-of-road-lines-mean"
+ },
+ {
+  "see": "Blue paint around a parking space",
+  "is": "Accessible (disability) parking marking",
+  "section": "road-lines",
+  "anchor": "What do the colors of road lines mean?",
+  "tags": [
+   "blue",
+   "parking",
+   "accessible",
+   "paint"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-colors-of-road-lines-mean"
+ },
+ {
+  "see": "Black stripes next to white lines on concrete",
+  "is": "A contrast aid with no meaning of its own",
+  "section": "road-lines",
+  "anchor": "What do the colors of road lines mean?",
+  "tags": [
+   "black",
+   "contrast",
+   "concrete",
+   "lines"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-colors-of-road-lines-mean"
+ },
+ {
+  "see": "Double yellow lines",
+  "is": "No passing from either direction",
+  "section": "road-lines",
+  "anchor": "What is the difference between solid, dashed, double and dotted lines?",
+  "tags": [
+   "double yellow",
+   "no passing",
+   "center line"
+  ],
+  "c": "yel",
+  "sid": "what-is-the-difference-between-solid-dashed-double-and-dotted-lines"
+ },
+ {
+  "see": "Short closely spaced dashes through an intersection",
+  "is": "A dotted line extending a lane or marking a lane drop",
+  "section": "road-lines",
+  "anchor": "What is the difference between solid, dashed, double and dotted lines?",
+  "tags": [
+   "dotted",
+   "dashes",
+   "intersection",
+   "lane"
+  ],
+  "c": "yel",
+  "sid": "what-is-the-difference-between-solid-dashed-double-and-dotted-lines"
+ },
+ {
+  "see": "Tall skinny words like STOP or ONLY painted in the lane",
+  "is": "Elongated pavement word markings, 6 feet or more tall",
+  "section": "road-lines",
+  "anchor": "Why are the words on the road stretched out?",
+  "tags": [
+   "words",
+   "stop",
+   "arrows",
+   "paint"
+  ],
+  "c": "yel",
+  "sid": "why-are-the-words-on-the-road-stretched-out"
+ },
+ {
+  "see": "White chevrons or bars on a bump in the road",
+  "is": "Speed hump markings",
+  "section": "road-lines",
+  "anchor": "What are the white stripes on a speed hump?",
+  "tags": [
+   "speed hump",
+   "chevrons",
+   "bump",
+   "white"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-white-stripes-on-a-speed-hump"
+ },
+ {
+  "see": "Red reflectors glowing in the road at night",
+  "is": "The wrong-way side of raised markers, or a truck escape ramp",
+  "section": "road-lines",
+  "anchor": "What are the bumps and reflectors on the lane lines?",
+  "tags": [
+   "red",
+   "reflector",
+   "wrong way",
+   "night"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-bumps-and-reflectors-on-the-lane-lines"
+ },
+ {
+  "see": "Small round white or yellow domes on lane lines",
+  "is": "Botts' dots",
+  "section": "road-lines",
+  "anchor": "What are Botts' dots and why is California removing them?",
+  "tags": [
+   "botts dots",
+   "bumps",
+   "california",
+   "lane"
+  ],
+  "c": "yel",
+  "sid": "what-are-botts-dots-and-why-is-california-removing-them"
+ },
+ {
+  "see": "Single blue reflector in the road",
+  "is": "A fire hydrant locator",
+  "section": "road-lines",
+  "anchor": "What do blue reflectors in the road mean?",
+  "tags": [
+   "blue",
+   "reflector",
+   "hydrant",
+   "fire"
+  ],
+  "c": "yel",
+  "sid": "what-do-blue-reflectors-in-the-road-mean"
+ },
+ {
+  "see": "Grooves on the shoulder that buzz under tires",
+  "is": "Rumble strips",
+  "section": "road-lines",
+  "anchor": "What are the grooves that buzz when you drift?",
+  "tags": [
+   "rumble strip",
+   "grooves",
+   "shoulder",
+   "noise"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-grooves-that-buzz-when-you-drift"
+ },
+ {
+  "see": "Thick raised rubbery-looking road lines",
+  "is": "Thermoplastic markings",
+  "section": "road-lines",
+  "anchor": "Why do road lines glow at night? Paint, thermoplastic and glass beads",
+  "tags": [
+   "thermoplastic",
+   "paint",
+   "lines"
+  ],
+  "c": "yel",
+  "sid": "why-do-road-lines-glow-at-night-paint-thermoplastic-and-glass-beads"
+ },
+ {
+  "see": "Tiny glass balls in the paint",
+  "is": "Glass beads that make lines retroreflective",
+  "section": "road-lines",
+  "anchor": "Why do road lines glow at night? Paint, thermoplastic and glass beads",
+  "tags": [
+   "glass beads",
+   "glow",
+   "night",
+   "reflective"
+  ],
+  "c": "yel",
+  "sid": "why-do-road-lines-glow-at-night-paint-thermoplastic-and-glass-beads"
+ },
+ {
+  "see": "Squares or circles cut into the asphalt at a light",
+  "is": "Inductive loop vehicle detectors",
+  "section": "road-lines",
+  "anchor": "What are the squares and circles cut into the road at traffic lights?",
+  "tags": [
+   "saw cut",
+   "loop",
+   "traffic light",
+   "sensor"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-squares-and-circles-cut-into-the-road-at-traffic-lights"
+ },
+ {
+  "see": "White diamond painted in the lane in Japan",
+  "is": "Pedestrian or bicycle crossing ahead",
+  "section": "road-lines",
+  "anchor": "Elsewhere in the world",
+  "tags": [
+   "japan",
+   "diamond",
+   "crosswalk"
+  ],
+  "c": "yel",
+  "sid": "elsewhere-in-the-world"
+ },
+ {
+  "see": "Wide white bars across the street",
+  "is": "A continental crosswalk",
+  "section": "crosswalks",
+  "anchor": "What do the different crosswalk patterns mean?",
+  "tags": [
+   "crosswalk",
+   "zebra",
+   "continental",
+   "white"
+  ],
+  "c": "wht",
+  "sid": "what-do-the-different-crosswalk-patterns-mean"
+ },
+ {
+  "see": "Two parallel lines across the street with bars between",
+  "is": "A ladder crosswalk",
+  "section": "crosswalks",
+  "anchor": "What do the different crosswalk patterns mean?",
+  "tags": [
+   "crosswalk",
+   "ladder",
+   "white"
+  ],
+  "c": "wht",
+  "sid": "what-do-the-different-crosswalk-patterns-mean"
+ },
+ {
+  "see": "Corner with sidewalks but no crosswalk paint",
+  "is": "An unmarked legal crosswalk, in most US states",
+  "section": "crosswalks",
+  "anchor": "Is every intersection a crosswalk, even without paint?",
+  "tags": [
+   "crosswalk",
+   "unmarked",
+   "intersection",
+   "pedestrian"
+  ],
+  "c": "wht",
+  "sid": "is-every-intersection-a-crosswalk-even-without-paint"
+ },
+ {
+  "see": "Thick white line across the lane before a crosswalk",
+  "is": "A stop line (stop bar)",
+  "section": "crosswalks",
+  "anchor": "What is the thick white line before the crosswalk?",
+  "tags": [
+   "stop line",
+   "stop bar",
+   "white"
+  ],
+  "c": "wht",
+  "sid": "what-is-the-thick-white-line-before-the-crosswalk"
+ },
+ {
+  "see": "Row of white triangles across the road",
+  "is": "A yield line (shark's teeth)",
+  "section": "crosswalks",
+  "anchor": "What are the triangles painted across the road?",
+  "tags": [
+   "triangles",
+   "shark's teeth",
+   "yield"
+  ],
+  "c": "wht",
+  "sid": "what-are-the-triangles-painted-across-the-road"
+ },
+ {
+  "see": "Bike symbol with two arrows in a car lane",
+  "is": "A sharrow (shared lane marking)",
+  "section": "crosswalks",
+  "anchor": "What does the bike symbol with arrows on the road mean?",
+  "tags": [
+   "sharrow",
+   "bike",
+   "chevrons",
+   "shared lane"
+  ],
+  "c": "wht",
+  "sid": "what-does-the-bike-symbol-with-arrows-on-the-road-mean"
+ },
+ {
+  "see": "Green paint in a bike lane or across an intersection",
+  "is": "Green colored pavement for bike lanes",
+  "section": "crosswalks",
+  "anchor": "Why are some bike lanes painted green?",
+  "tags": [
+   "green",
+   "bike lane",
+   "paint"
+  ],
+  "c": "wht",
+  "sid": "why-are-some-bike-lanes-painted-green"
+ },
+ {
+  "see": "Green box with a bike at the front of a lane at a light",
+  "is": "A bike box",
+  "section": "crosswalks",
+  "anchor": "What is the green box at the front of the lane at a traffic light?",
+  "tags": [
+   "bike box",
+   "green",
+   "traffic light",
+   "bike"
+  ],
+  "c": "wht",
+  "sid": "what-is-the-green-box-at-the-front-of-the-lane-at-a-traffic-light"
+ },
+ {
+  "see": "Small box with a bike and arrow at a corner",
+  "is": "A two-stage bicycle turn box",
+  "section": "crosswalks",
+  "anchor": "What is the small box with a bike and an arrow at the corner?",
+  "tags": [
+   "turn box",
+   "bike",
+   "left turn",
+   "green"
+  ],
+  "c": "wht",
+  "sid": "what-is-the-small-box-with-a-bike-and-an-arrow-at-the-corner"
+ },
+ {
+  "see": "Lane painted solid red with BUS ONLY",
+  "is": "A red transit-only lane",
+  "section": "crosswalks",
+  "anchor": "Why are some bus lanes painted red?",
+  "tags": [
+   "red",
+   "bus lane",
+   "transit"
+  ],
+  "c": "wht",
+  "sid": "why-are-some-bus-lanes-painted-red"
+ },
+ {
+  "see": "Flashing amber globe on a striped pole (UK)",
+  "is": "A Belisha beacon at a zebra crossing",
+  "section": "crosswalks",
+  "anchor": "UK zebra crossings and Belisha beacons",
+  "tags": [
+   "belisha beacon",
+   "zebra",
+   "uk",
+   "crossing"
+  ],
+  "c": "wht",
+  "sid": "uk-zebra-crossings-and-belisha-beacons"
+ },
+ {
+  "see": "White zigzag lines near a UK crossing",
+  "is": "Zigzag markings on the approach to a pedestrian crossing",
+  "section": "crosswalks",
+  "anchor": "What do the zigzag lines near a UK crossing mean?",
+  "tags": [
+   "zigzag",
+   "uk",
+   "crossing"
+  ],
+  "c": "wht",
+  "sid": "what-do-the-zigzag-lines-near-a-uk-crossing-mean"
+ },
+ {
+  "see": "Double yellow lines along a UK curb",
+  "is": "No waiting at any time",
+  "section": "crosswalks",
+  "anchor": "What do yellow and red lines along the curb mean in the UK?",
+  "tags": [
+   "yellow lines",
+   "uk",
+   "parking",
+   "curb"
+  ],
+  "c": "wht",
+  "sid": "what-do-yellow-and-red-lines-along-the-curb-mean-in-the-uk"
+ },
+ {
+  "see": "Red lines along a London curb",
+  "is": "A red route: no stopping",
+  "section": "crosswalks",
+  "anchor": "What do yellow and red lines along the curb mean in the UK?",
+  "tags": [
+   "red route",
+   "london",
+   "no stopping"
+  ],
+  "c": "wht",
+  "sid": "what-do-yellow-and-red-lines-along-the-curb-mean-in-the-uk"
+ },
+ {
+  "see": "LOOK RIGHT painted at a London curb",
+  "is": "A reminder for pedestrians where traffic comes from an unexpected direction",
+  "section": "crosswalks",
+  "anchor": "Why is LOOK RIGHT painted on London streets?",
+  "tags": [
+   "look right",
+   "london",
+   "pedestrian"
+  ],
+  "c": "wht",
+  "sid": "why-is-look-right-painted-on-london-streets"
+ },
+ {
+  "see": "Bare wires at the very top of a wooden pole on glass or porcelain knobs",
+  "is": "Medium-voltage primary power lines",
+  "section": "utility-poles",
+  "anchor": "Why is the power at the top and the phone lines lower?",
+  "tags": [
+   "pole",
+   "wires",
+   "power",
+   "primary",
+   "insulator"
+  ],
+  "c": "red",
+  "sid": "why-is-the-power-at-the-top-and-the-phone-lines-lower"
+ },
+ {
+  "see": "Phone and cable lines hung lower than the power lines",
+  "is": "Telecom attachments below the power, as required by code",
+  "section": "utility-poles",
+  "anchor": "Why is the power at the top and the phone lines lower?",
+  "tags": [
+   "pole",
+   "phone",
+   "cable",
+   "height"
+  ],
+  "c": "red",
+  "sid": "why-is-the-power-at-the-top-and-the-phone-lines-lower"
+ },
+ {
+  "see": "Gray metal can high on a power pole",
+  "is": "A distribution transformer",
+  "section": "utility-poles",
+  "anchor": "What is the gray can on a power pole?",
+  "tags": [
+   "pole",
+   "transformer",
+   "can",
+   "gray"
+  ],
+  "c": "red",
+  "sid": "what-is-the-gray-can-on-a-power-pole"
+ },
+ {
+  "see": "Diagonal tube on a pole hanging open after a storm, or a loud bang from a pole",
+  "is": "A fuse cutout that has operated",
+  "section": "utility-poles",
+  "anchor": "What was that loud bang from the power pole during the storm?",
+  "tags": [
+   "pole",
+   "fuse",
+   "bang",
+   "storm",
+   "outage"
+  ],
+  "c": "red",
+  "sid": "what-was-that-loud-bang-from-the-power-pole-during-the-storm"
+ },
+ {
+  "see": "Empty gap of about a yard between power and phone lines on a pole",
+  "is": "The communication worker safety zone",
+  "section": "utility-poles",
+  "anchor": "What is the empty gap between the power and the phone lines?",
+  "tags": [
+   "pole",
+   "gap",
+   "safety",
+   "nesc"
+  ],
+  "c": "red",
+  "sid": "what-is-the-empty-gap-between-the-power-and-the-phone-lines"
+ },
+ {
+  "see": "Sealed black cylinders or boxes hanging on cable lines",
+  "is": "Splice closures or cable TV amplifiers",
+  "section": "utility-poles",
+  "anchor": "What are all the black cables lower down?",
+  "tags": [
+   "cable",
+   "splice",
+   "fiber",
+   "box"
+  ],
+  "c": "red",
+  "sid": "what-are-all-the-black-cables-lower-down"
+ },
+ {
+  "see": "Oval coil of cable stretched between two racks on an overhead line",
+  "is": "Spare fiber held on snowshoe fittings",
+  "section": "utility-poles",
+  "anchor": "Why is there a coil of cable hanging on the line? (fiber \"snowshoes\")",
+  "tags": [
+   "fiber",
+   "coil",
+   "snowshoe",
+   "slack"
+  ],
+  "c": "red",
+  "sid": "why-is-there-a-coil-of-cable-hanging-on-the-line-fiber-snowshoes"
+ },
+ {
+  "see": "Burned-in letters and numbers or metal plates on a wooden pole",
+  "is": "The pole brand and inspection or ownership tags",
+  "section": "utility-poles",
+  "anchor": "How do you read the numbers and tags on a utility pole?",
+  "tags": [
+   "pole",
+   "tag",
+   "brand",
+   "numbers"
+  ],
+  "c": "red",
+  "sid": "how-do-you-read-the-numbers-and-tags-on-a-utility-pole"
+ },
+ {
+  "see": "Red, yellow or oval aluminum tag on a utility pole",
+  "is": "Inspection year or replacement priority tag",
+  "section": "utility-poles",
+  "anchor": "How do you read the numbers and tags on a utility pole?",
+  "tags": [
+   "pole",
+   "tag",
+   "red",
+   "yellow",
+   "inspection"
+  ],
+  "c": "red",
+  "sid": "how-do-you-read-the-numbers-and-tags-on-a-utility-pole"
+ },
+ {
+  "see": "Angled steel cable from a pole to the ground with a yellow sleeve",
+  "is": "A guy wire",
+  "section": "utility-poles",
+  "anchor": "What is the angled wire with the yellow tube?",
+  "tags": [
+   "guy",
+   "wire",
+   "yellow",
+   "anchor"
+  ],
+  "c": "red",
+  "sid": "what-is-the-angled-wire-with-the-yellow-tube"
+ },
+ {
+  "see": "Small round puck on top of a streetlight",
+  "is": "A photocontrol or smart node in an ANSI C136.41 socket",
+  "section": "utility-poles",
+  "anchor": "What is the thing on top of a streetlight?",
+  "tags": [
+   "streetlight",
+   "photocell",
+   "node",
+   "puck"
+  ],
+  "c": "red",
+  "sid": "what-is-the-thing-on-top-of-a-streetlight"
+ },
+ {
+  "see": "Cylinder or shroud on top of a light pole with boxes and a meter",
+  "is": "A small cell (cellular antenna)",
+  "section": "utility-poles",
+  "anchor": "What is the box on top of the light pole? Is it 5G?",
+  "tags": [
+   "5g",
+   "small cell",
+   "antenna",
+   "pole"
+  ],
+  "c": "red",
+  "sid": "what-is-the-box-on-top-of-the-light-pole-is-it-5g"
+ },
+ {
+  "see": "Traffic light with a black frame and a glowing yellow outline",
+  "is": "A backplate with retroreflective border",
+  "section": "signal-gear",
+  "anchor": "Why do some traffic lights have a yellow border?",
+  "tags": [
+   "signal",
+   "yellow",
+   "border",
+   "backplate"
+  ],
+  "c": "grn",
+  "sid": "why-do-some-traffic-lights-have-a-yellow-border"
+ },
+ {
+  "see": "Blinking yellow left-turn arrow",
+  "is": "A permissive left turn: yield, then turn",
+  "section": "signal-gear",
+  "anchor": "What does a flashing yellow arrow mean?",
+  "tags": [
+   "arrow",
+   "yellow",
+   "left turn",
+   "flashing"
+  ],
+  "c": "grn",
+  "sid": "what-does-a-flashing-yellow-arrow-mean"
+ },
+ {
+  "see": "Walk signal box with countdown numbers",
+  "is": "A pedestrian signal with countdown timer",
+  "section": "signal-gear",
+  "anchor": "What do the countdown numbers and push buttons do?",
+  "tags": [
+   "walk",
+   "countdown",
+   "pedestrian",
+   "button"
+  ],
+  "c": "grn",
+  "sid": "what-do-the-countdown-numbers-and-push-buttons-do"
+ },
+ {
+  "see": "Crosswalk button that ticks, talks or vibrates",
+  "is": "An accessible pedestrian signal (APS)",
+  "section": "signal-gear",
+  "anchor": "Why does the crosswalk button tick or vibrate?",
+  "tags": [
+   "crosswalk",
+   "button",
+   "tick",
+   "vibrate",
+   "accessible"
+  ],
+  "c": "grn",
+  "sid": "why-does-the-crosswalk-button-tick-or-vibrate"
+ },
+ {
+  "see": "Small blue light on top of a traffic signal",
+  "is": "A red-light confirmation light for police",
+  "section": "signal-gear",
+  "anchor": "What is the blue light on top of a traffic light?",
+  "tags": [
+   "blue",
+   "light",
+   "signal",
+   "police"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-blue-light-on-top-of-a-traffic-light"
+ },
+ {
+  "see": "Small bullet-shaped sensor on a signal arm aimed down the road",
+  "is": "An emergency preemption detector",
+  "section": "signal-gear",
+  "anchor": "What is the small sensor pointed down the road? (emergency preemption)",
+  "tags": [
+   "sensor",
+   "preemption",
+   "fire truck",
+   "signal"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-small-sensor-pointed-down-the-road-emergency-preemption"
+ },
+ {
+  "see": "Small cameras on a traffic light arm",
+  "is": "Usually vehicle detection cameras",
+  "section": "signal-gear",
+  "anchor": "What are the cameras on traffic lights for?",
+  "tags": [
+   "camera",
+   "detection",
+   "signal",
+   "alpr"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-cameras-on-traffic-lights-for"
+ },
+ {
+  "see": "Saw-cut lines in the pavement before a stop line",
+  "is": "An inductive loop vehicle detector",
+  "section": "signal-gear",
+  "anchor": "What are the cameras on traffic lights for?",
+  "tags": [
+   "loop",
+   "pavement",
+   "detector",
+   "cuts"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-cameras-on-traffic-lights-for"
+ },
+ {
+  "see": "Signal with two red lights above a yellow over a mid-block crosswalk",
+  "is": "A pedestrian hybrid beacon (HAWK)",
+  "section": "signal-gear",
+  "anchor": "What is a HAWK signal?",
+  "tags": [
+   "hawk",
+   "beacon",
+   "crosswalk",
+   "red"
+  ],
+  "c": "grn",
+  "sid": "what-is-a-hawk-signal"
+ },
+ {
+  "see": "Flashing yellow rectangular lights under a crosswalk sign",
+  "is": "A rectangular rapid flashing beacon (RRFB)",
+  "section": "signal-gear",
+  "anchor": "What are the flashing yellow lights at a crosswalk?",
+  "tags": [
+   "rrfb",
+   "crosswalk",
+   "flashing",
+   "yellow"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-flashing-yellow-lights-at-a-crosswalk"
+ },
+ {
+  "see": "Row of blue bikes in docks with a solar kiosk in Boston",
+  "is": "A Bluebikes bike-share station",
+  "section": "signal-gear",
+  "anchor": "What are the rows of blue bikes and the kiosk? (Bluebikes in Boston)",
+  "tags": [
+   "bike",
+   "bluebikes",
+   "dock",
+   "boston"
+  ],
+  "c": "grn",
+  "sid": "what-are-the-rows-of-blue-bikes-and-the-kiosk-bluebikes-in-boston"
+ },
+ {
+  "see": "Red and amber lit together on a UK traffic light",
+  "is": "Prepare to go, but do not proceed yet",
+  "section": "signal-gear",
+  "anchor": "Why does the UK show red and amber together?",
+  "tags": [
+   "uk",
+   "amber",
+   "red",
+   "signal"
+  ],
+  "c": "grn",
+  "sid": "why-does-the-uk-show-red-and-amber-together"
+ },
+ {
+  "see": "Flashing orange globes on striped poles at a UK crossing",
+  "is": "Belisha beacons at a zebra crossing",
+  "section": "signal-gear",
+  "anchor": "What is the difference between zebra, pelican, puffin, toucan and pegasus crossings?",
+  "tags": [
+   "uk",
+   "zebra",
+   "belisha",
+   "crossing"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-difference-between-zebra-pelican-puffin-toucan-and-pegasus-crossings"
+ },
+ {
+  "see": "Walking man with a hat on a Berlin traffic light",
+  "is": "The East German Ampelmännchen",
+  "section": "signal-gear",
+  "anchor": "What is the Berlin traffic light man called?",
+  "tags": [
+   "berlin",
+   "ampelmannchen",
+   "germany",
+   "walk"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-berlin-traffic-light-man-called"
+ },
+ {
+  "see": "Bluish green go light in Japan",
+  "is": "Japan's ao light, the bluest permitted green",
+  "section": "signal-gear",
+  "anchor": "Why does Japan call green lights blue?",
+  "tags": [
+   "japan",
+   "blue",
+   "green",
+   "ao"
+  ],
+  "c": "grn",
+  "sid": "why-does-japan-call-green-lights-blue"
+ },
+ {
+  "see": "Red eight-sided sign",
+  "is": "A stop sign; the octagon shape is reserved for stop",
+  "section": "signs",
+  "anchor": "Why are stop signs octagons, and were they ever yellow?",
+  "tags": [
+   "stop",
+   "octagon",
+   "red",
+   "sign"
+  ],
+  "c": "yel",
+  "sid": "why-are-stop-signs-octagons-and-were-they-ever-yellow"
+ },
+ {
+  "see": "Sign shaped like a house or arrow-topped pentagon",
+  "is": "School advance warning sign (or a county route marker if bottom corners taper)",
+  "section": "signs",
+  "anchor": "What does a pentagon-shaped sign mean?",
+  "tags": [
+   "pentagon",
+   "school",
+   "sign",
+   "county"
+  ],
+  "c": "yel",
+  "sid": "what-does-a-pentagon-shaped-sign-mean"
+ },
+ {
+  "see": "Sideways yellow triangle on the left of the road",
+  "is": "No Passing Zone pennant, sign W14-3",
+  "section": "signs",
+  "anchor": "What does a sideways triangle sign on the left mean?",
+  "tags": [
+   "pennant",
+   "triangle",
+   "passing",
+   "sign"
+  ],
+  "c": "yel",
+  "sid": "what-does-a-sideways-triangle-sign-on-the-left-mean"
+ },
+ {
+  "see": "Round sign before railroad tracks",
+  "is": "Railroad grade crossing advance warning",
+  "section": "signs",
+  "anchor": "What does a round yellow sign before railroad tracks mean?",
+  "tags": [
+   "railroad",
+   "round",
+   "circle",
+   "tracks"
+  ],
+  "c": "yel",
+  "sid": "what-does-a-round-yellow-sign-before-railroad-tracks-mean"
+ },
+ {
+  "see": "Yellow diamond sign",
+  "is": "A general warning sign",
+  "section": "signs",
+  "anchor": "What do the different sign shapes mean?",
+  "tags": [
+   "diamond",
+   "yellow",
+   "warning",
+   "shape"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-different-sign-shapes-mean"
+ },
+ {
+  "see": "Brightly colored or oddly colored road sign",
+  "is": "Sign colors carry meanings set by the MUTCD",
+  "section": "signs",
+  "anchor": "What do the different sign colors mean?",
+  "tags": [
+   "color",
+   "sign",
+   "orange",
+   "blue",
+   "brown"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-different-sign-colors-mean"
+ },
+ {
+  "see": "Neon yellow-green sign with kids or a walking person",
+  "is": "Fluorescent yellow-green school, pedestrian or bicycle warning",
+  "section": "signs",
+  "anchor": "Why are some school and crosswalk signs neon green?",
+  "tags": [
+   "neon",
+   "green",
+   "school",
+   "crosswalk"
+  ],
+  "c": "yel",
+  "sid": "why-are-some-school-and-crosswalk-signs-neon-green"
+ },
+ {
+  "see": "Hot pink sign at a crash",
+  "is": "Incident management sign for crashes and emergencies",
+  "section": "signs",
+  "anchor": "What does a pink road sign mean?",
+  "tags": [
+   "pink",
+   "crash",
+   "emergency",
+   "temporary"
+  ],
+  "c": "yel",
+  "sid": "what-does-a-pink-road-sign-mean"
+ },
+ {
+  "see": "Code like W14-3 or W13-1P on a sign label",
+  "is": "MUTCD sign designation; P means a plaque",
+  "section": "signs",
+  "anchor": "What do sign codes like W14-3 mean?",
+  "tags": [
+   "code",
+   "designation",
+   "mutcd",
+   "plaque"
+  ],
+  "c": "yel",
+  "sid": "what-do-sign-codes-like-w14-3-mean"
+ },
+ {
+  "see": "Green sign with the street name at a corner",
+  "is": "Street name sign, with federal letter-size and color rules",
+  "section": "signs",
+  "anchor": "What are the rules for street name signs?",
+  "tags": [
+   "street",
+   "name",
+   "green",
+   "corner"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-rules-for-street-name-signs"
+ },
+ {
+  "see": "Blue street name sign",
+  "is": "One of four permitted street sign color schemes",
+  "section": "signs",
+  "anchor": "Why are some street signs blue instead of green?",
+  "tags": [
+   "blue",
+   "street",
+   "name",
+   "private"
+  ],
+  "c": "yel",
+  "sid": "why-are-some-street-signs-blue-instead-of-green"
+ },
+ {
+  "see": "Tall pole stacked with parking signs",
+  "is": "Parking sign stack, one sign per restriction",
+  "section": "signs",
+  "anchor": "Why are there so many parking signs on one pole?",
+  "tags": [
+   "parking",
+   "stack",
+   "pole",
+   "tow"
+  ],
+  "c": "yel",
+  "sid": "why-are-there-so-many-parking-signs-on-one-pole"
+ },
+ {
+  "see": "Lettering on US highway signs",
+  "is": "Highway Gothic, the FHWA Standard Alphabets",
+  "section": "sign-codes",
+  "anchor": "What font is used on US highway signs?",
+  "tags": [
+   "font",
+   "highway",
+   "gothic",
+   "lettering"
+  ],
+  "c": "grn",
+  "sid": "what-font-is-used-on-us-highway-signs"
+ },
+ {
+  "see": "Rounder, more open letters on a green highway sign",
+  "is": "Possibly the Clearview typeface",
+  "section": "sign-codes",
+  "anchor": "What happened to the Clearview font?",
+  "tags": [
+   "clearview",
+   "font",
+   "green",
+   "sign"
+  ],
+  "c": "grn",
+  "sid": "what-happened-to-the-clearview-font"
+ },
+ {
+  "see": "Sticker with punched holes or date on the back of a sign",
+  "is": "Sign identification decal recording materials and dates",
+  "section": "sign-codes",
+  "anchor": "What do the stickers on the back of road signs mean?",
+  "tags": [
+   "sticker",
+   "decal",
+   "back",
+   "date"
+  ],
+  "c": "grn",
+  "sid": "what-do-the-stickers-on-the-back-of-road-signs-mean"
+ },
+ {
+  "see": "Sign that glows in headlights",
+  "is": "Retroreflective sheeting, kept above federal minimums",
+  "section": "sign-codes",
+  "anchor": "Why do signs glow in headlights, and why do they get replaced?",
+  "tags": [
+   "reflective",
+   "night",
+   "glow",
+   "faded"
+  ],
+  "c": "grn",
+  "sid": "why-do-signs-glow-in-headlights-and-why-do-they-get-replaced"
+ },
+ {
+  "see": "Small green numbered sign along a highway",
+  "is": "Mile marker (reference location sign)",
+  "section": "sign-codes",
+  "anchor": "Where does mile marker 0 start?",
+  "tags": [
+   "mile",
+   "marker",
+   "milepost",
+   "highway"
+  ],
+  "c": "grn",
+  "sid": "where-does-mile-marker-0-start"
+ },
+ {
+  "see": "Exit number on a highway sign",
+  "is": "Interchange number, meant to follow the mile marker count",
+  "section": "sign-codes",
+  "anchor": "How are highway exit numbers decided?",
+  "tags": [
+   "exit",
+   "number",
+   "interchange",
+   "highway"
+  ],
+  "c": "grn",
+  "sid": "how-are-highway-exit-numbers-decided"
+ },
+ {
+  "see": "Red and blue shield with a number",
+  "is": "Interstate route marker, adopted 1957",
+  "section": "sign-codes",
+  "anchor": "Who designed the Interstate shield?",
+  "tags": [
+   "interstate",
+   "shield",
+   "red",
+   "blue"
+  ],
+  "c": "grn",
+  "sid": "who-designed-the-interstate-shield"
+ },
+ {
+  "see": "Red-bordered triangle or blue circle sign in Europe",
+  "is": "Vienna Convention warning or mandatory sign",
+  "section": "sign-codes",
+  "anchor": "What is the Vienna Convention on road signs?",
+  "tags": [
+   "vienna",
+   "europe",
+   "triangle",
+   "circle"
+  ],
+  "c": "grn",
+  "sid": "what-is-the-vienna-convention-on-road-signs"
+ },
+ {
+  "see": "Lettering on British road signs",
+  "is": "Transport typeface by Kinneir and Calvert",
+  "section": "sign-codes",
+  "anchor": "What font are UK road signs in?",
+  "tags": [
+   "uk",
+   "transport",
+   "font",
+   "british"
+  ],
+  "c": "grn",
+  "sid": "what-font-are-uk-road-signs-in"
+ },
+ {
+  "see": "Narrow lettering on German signs",
+  "is": "DIN 1451 typeface",
+  "section": "sign-codes",
+  "anchor": "What font do German road signs use?",
+  "tags": [
+   "germany",
+   "din",
+   "font",
+   "autobahn"
+  ],
+  "c": "grn",
+  "sid": "what-font-do-german-road-signs-use"
+ },
+ {
+  "see": "Red upside-down triangle stop sign in Japan",
+  "is": "Japan's stop sign, bilingual since 2017",
+  "section": "sign-codes",
+  "anchor": "Why is Japan's stop sign a triangle?",
+  "tags": [
+   "japan",
+   "stop",
+   "triangle",
+   "tomare"
+  ],
+  "c": "grn",
+  "sid": "why-is-japan-s-stop-sign-a-triangle"
+ },
+ {
+  "see": "Kangaroo on a road sign",
+  "is": "Australian kangaroo warning sign, W5-29 in NSW",
+  "section": "sign-codes",
+  "anchor": "What does the kangaroo sign mean?",
+  "tags": [
+   "kangaroo",
+   "australia",
+   "wildlife",
+   "warning"
+  ],
+  "c": "grn",
+  "sid": "what-does-the-kangaroo-sign-mean"
+ },
+ {
+  "see": "Brown sign pointing to a park or museum",
+  "is": "Recreational, cultural or tourist destination sign",
+  "section": "sign-codes",
+  "anchor": "What do brown road signs mean?",
+  "tags": [
+   "brown",
+   "tourist",
+   "park",
+   "heritage"
+  ],
+  "c": "grn",
+  "sid": "what-do-brown-road-signs-mean"
+ },
+ {
+  "see": "Curb painted red, yellow, white, green or blue",
+  "is": "A parking code set by state law in California; many places, including New York, rely on signs instead",
+  "section": "curbs",
+  "anchor": "What do the different curb colors mean?",
+  "tags": [
+   "curb",
+   "paint",
+   "color",
+   "parking",
+   "red"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-different-curb-colors-mean"
+ },
+ {
+  "see": "Yellow-painted curb near a hydrant in Boston",
+  "is": "A reminder, not a documented legal code; the posted sign governs",
+  "section": "curbs",
+  "anchor": "In Boston: what do painted curbs mean?",
+  "tags": [
+   "curb",
+   "yellow",
+   "boston",
+   "hydrant"
+  ],
+  "c": "yel",
+  "sid": "in-boston-what-do-painted-curbs-mean"
+ },
+ {
+  "see": "Sloped cut in the curb at a corner",
+  "is": "A curb ramp for wheelchairs, strollers and carts",
+  "section": "curbs",
+  "anchor": "Why is there a slope cut into the curb at the corner?",
+  "tags": [
+   "ramp",
+   "curb",
+   "wheelchair",
+   "ada",
+   "corner"
+  ],
+  "c": "yel",
+  "sid": "why-is-there-a-slope-cut-into-the-curb-at-the-corner"
+ },
+ {
+  "see": "Panel of small bumps at the bottom of a curb ramp",
+  "is": "A detectable warning surface of truncated domes for blind pedestrians",
+  "section": "curbs",
+  "anchor": "What are the bumps at the bottom of a curb ramp called?",
+  "tags": [
+   "bumps",
+   "domes",
+   "tactile",
+   "ramp",
+   "blind"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-bumps-at-the-bottom-of-a-curb-ramp-called"
+ },
+ {
+  "see": "Bright yellow bumpy tiles on the sidewalk",
+  "is": "Tactile warning panels colored for high contrast",
+  "section": "curbs",
+  "anchor": "Why are the bumps yellow?",
+  "tags": [
+   "yellow",
+   "bumps",
+   "tactile",
+   "contrast"
+  ],
+  "c": "yel",
+  "sid": "why-are-the-bumps-yellow"
+ },
+ {
+  "see": "Yellow tiles with dots or raised bars in Japan",
+  "is": "Tenji blocks: dots warn, bars guide",
+  "section": "curbs",
+  "anchor": "What are the yellow striped and dotted tiles in Japan?",
+  "tags": [
+   "japan",
+   "tenji",
+   "tactile",
+   "yellow",
+   "station"
+  ],
+  "c": "yel",
+  "sid": "what-are-the-yellow-striped-and-dotted-tiles-in-japan"
+ },
+ {
+  "see": "Red or buff bumpy paving slabs at a UK crossing",
+  "is": "Blister paving; red means a controlled crossing",
+  "section": "curbs",
+  "anchor": "What do the different bumpy paving slabs mean in the UK?",
+  "tags": [
+   "uk",
+   "blister",
+   "crossing",
+   "tactile",
+   "red"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-different-bumpy-paving-slabs-mean-in-the-uk"
+ },
+ {
+  "see": "Ridged paving at the top of steps in the UK",
+  "is": "Corduroy paving: hazard, proceed with caution",
+  "section": "curbs",
+  "anchor": "What do the different bumpy paving slabs mean in the UK?",
+  "tags": [
+   "uk",
+   "corduroy",
+   "steps",
+   "tactile"
+  ],
+  "c": "yel",
+  "sid": "what-do-the-different-bumpy-paving-slabs-mean-in-the-uk"
+ },
+ {
+  "see": "Short metal or concrete posts on the sidewalk",
+  "is": "Bollards; some are crash-rated security bollards",
+  "section": "curbs",
+  "anchor": "What are those short posts on the sidewalk?",
+  "tags": [
+   "bollard",
+   "post",
+   "security",
+   "crash"
+  ],
+  "c": "yel",
+  "sid": "what-are-those-short-posts-on-the-sidewalk"
+ },
+ {
+  "see": "Company name or year pressed into a sidewalk panel",
+  "is": "A contractor stamp that dates the concrete",
+  "section": "sidewalks",
+  "anchor": "Why is there a name or a date stamped in the sidewalk?",
+  "tags": [
+   "stamp",
+   "concrete",
+   "date",
+   "contractor"
+  ],
+  "c": "pnk",
+  "sid": "why-is-there-a-name-or-a-date-stamped-in-the-sidewalk"
+ },
+ {
+  "see": "WPA and a 1930s date stamped in the sidewalk",
+  "is": "A Works Progress Administration stamp from the New Deal",
+  "section": "sidewalks",
+  "anchor": "What does \"WPA\" stamped in the concrete mean?",
+  "tags": [
+   "wpa",
+   "stamp",
+   "new deal",
+   "concrete"
+  ],
+  "c": "pnk",
+  "sid": "what-does-wpa-stamped-in-the-concrete-mean"
+ },
+ {
+  "see": "Red brick sidewalk with granite curb in Boston",
+  "is": "Historic brick, now rebuilt in wire-cut brick under city policy",
+  "section": "sidewalks",
+  "anchor": "Why does Boston have brick sidewalks?",
+  "tags": [
+   "brick",
+   "boston",
+   "granite",
+   "sidewalk"
+  ],
+  "c": "pnk",
+  "sid": "why-does-boston-have-brick-sidewalks"
+ },
+ {
+  "see": "Concrete ramp with brick-red bumps on Boston brick street",
+  "is": "Boston's historic-district curb ramp design",
+  "section": "sidewalks",
+  "anchor": "The Beacon Hill curb ramp fight",
+  "tags": [
+   "ramp",
+   "beacon hill",
+   "tactile",
+   "brick"
+  ],
+  "c": "pnk",
+  "sid": "the-beacon-hill-curb-ramp-fight"
+ },
+ {
+  "see": "Iron blade next to old front steps",
+  "is": "A boot scraper, called a mudder in Boston",
+  "section": "sidewalks",
+  "anchor": "What is the metal blade next to old front steps?",
+  "tags": [
+   "boot scraper",
+   "iron",
+   "doorstep",
+   "mudder"
+  ],
+  "c": "pnk",
+  "sid": "what-is-the-metal-blade-next-to-old-front-steps"
+ },
+ {
+  "see": "Blue mailbox on a street corner",
+  "is": "A USPS collection box; their number has fallen sharply",
+  "section": "sidewalks",
+  "anchor": "Why are blue mailboxes disappearing?",
+  "tags": [
+   "mailbox",
+   "usps",
+   "blue",
+   "post"
+  ],
+  "c": "pnk",
+  "sid": "why-are-blue-mailboxes-disappearing"
+ },
+ {
+  "see": "Private Way sign on a side street",
+  "is": "A street the city has not accepted; neighbors maintain it",
+  "section": "sidewalks",
+  "anchor": "What does a \"Private Way\" sign mean in Boston?",
+  "tags": [
+   "private way",
+   "sign",
+   "boston",
+   "street"
+  ],
+  "c": "pnk",
+  "sid": "what-does-a-private-way-sign-mean-in-boston"
+ },
+ {
+  "see": "Plaque saying right to pass by permission",
+  "is": "A notice that blocks a public right of way from forming",
+  "section": "sidewalks",
+  "anchor": "What does \"Right to pass by permission\" mean?",
+  "tags": [
+   "plaque",
+   "private property",
+   "easement",
+   "permission"
+  ],
+  "c": "pnk",
+  "sid": "what-does-right-to-pass-by-permission-mean"
+ },
+ {
+  "see": "Faded old painted ad on a brick wall",
+  "is": "A ghost sign",
+  "section": "sidewalks",
+  "anchor": "What are the faded painted ads on old brick walls?",
+  "tags": [
+   "ghost sign",
+   "ad",
+   "brick",
+   "painted"
+  ],
+  "c": "pnk",
+  "sid": "what-are-the-faded-painted-ads-on-old-brick-walls"
+ },
+ {
+  "see": "Steel rails showing through the asphalt",
+  "is": "Old streetcar tracks paved over",
+  "section": "sidewalks",
+  "anchor": "Why are there old trolley tracks showing through the road?",
+  "tags": [
+   "trolley",
+   "tracks",
+   "rails",
+   "streetcar"
+  ],
+  "c": "pnk",
+  "sid": "why-are-there-old-trolley-tracks-showing-through-the-road"
+ },
+ {
+  "see": "Granite block paving on an old street",
+  "is": "Setts or Belgian block, usually not true cobblestones",
+  "section": "sidewalks",
+  "anchor": "Is that cobblestone or Belgian block?",
+  "tags": [
+   "cobblestone",
+   "sett",
+   "belgian block",
+   "granite"
+  ],
+  "c": "pnk",
+  "sid": "is-that-cobblestone-or-belgian-block"
+ },
+ {
+  "see": "A mix of streetlights, boxes, covers and signs on one Boston block, owned by different agencies",
+  "is": "Boston splits street equipment among city departments, state agencies and utilities",
+  "section": "boston",
+  "anchor": "Who owns what on a Boston street?",
+  "tags": [
+   "owner",
+   "boston",
+   "utility",
+   "city",
+   "pwd"
+  ],
+  "c": "blu",
+  "sid": "who-owns-what-on-a-boston-street"
+ },
+ {
+  "see": "Red box on a pole or pedestal with a white handle and a red light above it",
+  "is": "A Boston Fire Department street fire alarm box",
+  "section": "boston",
+  "anchor": "What is the red box on a pole with a white handle?",
+  "tags": [
+   "fire",
+   "alarm",
+   "box",
+   "red",
+   "boston"
+  ],
+  "c": "blu",
+  "sid": "what-is-the-red-box-on-a-pole-with-a-white-handle"
+ },
+ {
+  "see": "Old-fashioned lantern streetlight glowing in the daytime",
+  "is": "A natural-gas street lamp that burns around the clock",
+  "section": "boston",
+  "anchor": "Why are Boston's gas lamps lit during the day?",
+  "tags": [
+   "gas",
+   "lamp",
+   "lantern",
+   "beacon hill",
+   "streetlight"
+  ],
+  "c": "blu",
+  "sid": "why-are-boston-s-gas-lamps-lit-during-the-day"
+ },
+ {
+  "see": "Brick sidewalk with a concrete strip down the middle",
+  "is": "A historic-district sidewalk keeping a concrete accessible path",
+  "section": "boston",
+  "anchor": "Why are some Boston sidewalks brick and others concrete?",
+  "tags": [
+   "brick",
+   "sidewalk",
+   "concrete",
+   "accessibility",
+   "historic"
+  ],
+  "c": "blu",
+  "sid": "why-are-some-boston-sidewalks-brick-and-others-concrete"
+ },
+ {
+  "see": "Brick-red bumpy panel at the bottom of a curb ramp",
+  "is": "A tactile warning strip, colored to match historic brick",
+  "section": "boston",
+  "anchor": "Why are some Boston sidewalks brick and others concrete?",
+  "tags": [
+   "tactile",
+   "ramp",
+   "curb",
+   "bumps",
+   "brick"
+  ],
+  "c": "blu",
+  "sid": "why-are-some-boston-sidewalks-brick-and-others-concrete"
+ },
+ {
+  "see": "Long gray stone curb with an inset patch",
+  "is": "A granite curb, possibly repaired with a dutchman inset",
+  "section": "boston",
+  "anchor": "What are the long gray stones along the curb?",
+  "tags": [
+   "granite",
+   "curb",
+   "stone",
+   "patch",
+   "dutchman"
+  ],
+  "c": "blu",
+  "sid": "what-are-the-long-gray-stones-along-the-curb"
+ },
+ {
+  "see": "Black T in a white circle on a pole",
+  "is": "The MBTA logo marking a subway station or stop",
+  "section": "boston",
+  "anchor": "What is the black and white T sign?",
+  "tags": [
+   "mbta",
+   "t",
+   "subway",
+   "transit",
+   "logo"
+  ],
+  "c": "blu",
+  "sid": "what-is-the-black-and-white-t-sign"
+ },
+ {
+  "see": "Row of blue bicycles locked in docks on the curb",
+  "is": "A Bluebikes bike share station",
+  "section": "boston",
+  "anchor": "What are the rows of blue bikes on the curb?",
+  "tags": [
+   "bike",
+   "bluebikes",
+   "bike share",
+   "dock",
+   "blue"
+  ],
+  "c": "blu",
+  "sid": "what-are-the-rows-of-blue-bikes-on-the-curb"
+ },
+ {
+  "see": "Red line painted or bricked into the sidewalk downtown",
+  "is": "The Freedom Trail guide line",
+  "section": "boston",
+  "anchor": "What is the red line on the sidewalk?",
+  "tags": [
+   "red",
+   "line",
+   "freedom trail",
+   "sidewalk",
+   "history"
+  ],
+  "c": "blu",
+  "sid": "what-is-the-red-line-on-the-sidewalk"
+ },
+ {
+  "see": "Sign about snow emergencies and towing on a main road",
+  "is": "A Boston snow emergency artery sign",
+  "section": "boston",
+  "anchor": "What does \"snow emergency artery\" mean?",
+  "tags": [
+   "snow",
+   "parking",
+   "tow",
+   "sign",
+   "winter"
+  ],
+  "c": "blu",
+  "sid": "what-does-snow-emergency-artery-mean"
+ },
+ {
+  "see": "Lawn chair or cone in a shoveled parking space",
+  "is": "A space saver",
+  "section": "boston",
+  "anchor": "Why is there a lawn chair in that parking space?",
+  "tags": [
+   "snow",
+   "chair",
+   "parking",
+   "space saver",
+   "winter"
+  ],
+  "c": "blu",
+  "sid": "why-is-there-a-lawn-chair-in-that-parking-space"
+ },
+ {
+  "see": "Orange cones and orange-and-white striped barrels",
+  "is": "Work zone channelizing devices under MUTCD Part 6",
+  "section": "work-zones",
+  "anchor": "What do orange cones, drums and barricades mean?",
+  "tags": [
+   "cone",
+   "drum",
+   "barrel",
+   "orange",
+   "work zone"
+  ],
+  "c": "org",
+  "sid": "what-do-orange-cones-drums-and-barricades-mean"
+ },
+ {
+  "see": "Orange and white striped barricade on legs",
+  "is": "A Type I, II or III work zone barricade",
+  "section": "work-zones",
+  "anchor": "What do orange cones, drums and barricades mean?",
+  "tags": [
+   "barricade",
+   "stripes",
+   "orange",
+   "road closed",
+   "work zone"
+  ],
+  "c": "org",
+  "sid": "what-do-orange-cones-drums-and-barricades-mean"
+ },
+ {
+  "see": "Trailer with a flashing arrow made of lights",
+  "is": "An arrow board telling drivers to merge",
+  "section": "work-zones",
+  "anchor": "What is the flashing arrow sign on a trailer?",
+  "tags": [
+   "arrow",
+   "lights",
+   "trailer",
+   "merge",
+   "work zone"
+  ],
+  "c": "org",
+  "sid": "what-is-the-flashing-arrow-sign-on-a-trailer"
+ },
+ {
+  "see": "Worker holding a STOP and SLOW sign",
+  "is": "A flagger with a STOP/SLOW paddle",
+  "section": "work-zones",
+  "anchor": "What do the STOP and SLOW paddles mean?",
+  "tags": [
+   "flagger",
+   "stop",
+   "slow",
+   "paddle",
+   "worker"
+  ],
+  "c": "org",
+  "sid": "what-do-the-stop-and-slow-paddles-mean"
+ },
+ {
+  "see": "Orange diamond sign saying ROAD WORK AHEAD",
+  "is": "A temporary work zone warning sign",
+  "section": "work-zones",
+  "anchor": "Why are work zone signs orange?",
+  "tags": [
+   "orange",
+   "sign",
+   "road work",
+   "diamond",
+   "warning"
+  ],
+  "c": "org",
+  "sid": "why-are-work-zone-signs-orange"
+ },
+ {
+  "see": "Cardboard No Parking sign with dates on a pole",
+  "is": "A temporary No Parking sign posted under a street occupancy permit",
+  "section": "work-zones",
+  "anchor": "Who put up the cardboard \"No Parking\" sign?",
+  "tags": [
+   "no parking",
+   "cardboard",
+   "moving",
+   "permit",
+   "tow"
+  ],
+  "c": "org",
+  "sid": "who-put-up-the-cardboard-no-parking-sign"
+ },
+ {
+  "see": "Street Cleaning sign with days, hours and months",
+  "is": "A posted street sweeping schedule with towing",
+  "section": "work-zones",
+  "anchor": "How do I read a street sweeping sign?",
+  "tags": [
+   "street cleaning",
+   "sweeping",
+   "parking",
+   "tow",
+   "sign"
+  ],
+  "c": "org",
+  "sid": "how-do-i-read-a-street-sweeping-sign"
+ },
+ {
+  "see": "Green or gray metal box on a sidewalk or lawn",
+  "is": "An electric transformer, telecom pedestal or control cabinet",
+  "section": "work-zones",
+  "anchor": "How do I tell utility cabinets apart?",
+  "tags": [
+   "green box",
+   "cabinet",
+   "transformer",
+   "telecom",
+   "utility"
+  ],
+  "c": "org",
+  "sid": "how-do-i-tell-utility-cabinets-apart"
+ },
+ {
+  "see": "Numbers stenciled or tagged on a pole or box",
+  "is": "An owner's asset or equipment ID",
+  "section": "work-zones",
+  "anchor": "What do the numbers stenciled on poles and boxes mean?",
+  "tags": [
+   "numbers",
+   "tag",
+   "pole",
+   "stencil",
+   "id"
+  ],
+  "c": "org",
+  "sid": "what-do-the-numbers-stenciled-on-poles-and-boxes-mean"
+ },
+ {
+  "see": "Blue disks or yellow E marks on a New York street",
+  "is": "Con Edison paving markers showing the year of the work",
+  "section": "work-zones",
+  "anchor": "What do the numbers stenciled on poles and boxes mean?",
+  "tags": [
+   "poker chip",
+   "con edison",
+   "nyc",
+   "yellow e",
+   "paving"
+  ],
+  "c": "org",
+  "sid": "what-do-the-numbers-stenciled-on-poles-and-boxes-mean"
+ },
+ {
+  "see": "Round bronze disk in the sidewalk saying do not disturb",
+  "is": "A survey mark or benchmark",
+  "section": "work-zones",
+  "anchor": "What is the round metal disk that says \"do not disturb\"?",
+  "tags": [
+   "benchmark",
+   "survey",
+   "disk",
+   "bronze",
+   "ngs"
+  ],
+  "c": "org",
+  "sid": "what-is-the-round-metal-disk-that-says-do-not-disturb"
+ },
+ {
+  "see": "Blue circle on a white sign reading EVACUATION ROUTE",
+  "is": "The MUTCD EM-1 evacuation route sign",
+  "section": "work-zones",
+  "anchor": "What do evacuation and tsunami signs look like?",
+  "tags": [
+   "evacuation",
+   "blue",
+   "sign",
+   "hurricane",
+   "route"
+  ],
+  "c": "org",
+  "sid": "what-do-evacuation-and-tsunami-signs-look-like"
+ },
+ {
+  "see": "Blue and white sign with a wave symbol, or an orange hexagon about tsunamis",
+  "is": "A tsunami evacuation route or hazard zone sign",
+  "section": "work-zones",
+  "anchor": "What do evacuation and tsunami signs look like?",
+  "tags": [
+   "tsunami",
+   "wave",
+   "evacuation",
+   "hazard zone",
+   "coast"
+  ],
+  "c": "org",
+  "sid": "what-do-evacuation-and-tsunami-signs-look-like"
+ }
+]
